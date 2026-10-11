@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[61033,["360","static/chunks/360-00ffdde80ed66f87.js","458","static/chunks/458-cfb6d9e3e391c6f0.js","887","static/chunks/887-ac98c4b030a9a055.js","243","static/chunks/243-47ea25a2b71c9386.js","974","static/chunks/app/page-e555b7c94ea46855.js"],"default"]
+3:I[90484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[90484,[],"ViewportBoundary"]
+9:I[90484,[],"MetadataBoundary"]
+a:I[86869,[],"IconMark"]
+c:I[93530,["177","static/chunks/app/layout-3e9216bf135c5b04.js"],"WorkspaceEntryProvider"]
+d:I[57121,[],""]
+e:I[74581,[],""]
+:HL["/_next/static/css/486c6eb0779c45e1.css","style"]
+:HL["/_next/static/css/0127bd69ef6d611e.css","style"]
+:HL["/_next/static/css/a4e73dbb492fc76c.css","style"]
+:HL["/_next/static/css/aae8ea0728a0129a.css","style"]
+7:X
+0:{"buildId":"kTYBaV91ZRRIeVcA73BJD","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/486c6eb0779c45e1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0127bd69ef6d611e.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LinkeAI · 链接想象与现实"}],["$","meta","1",{"name":"description","content":"让想象成为文字、画面、影像与声音。LinkeAI，一站式 AI 创作工作台。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/favicon.svg"}],["$","$La","5",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a4e73dbb492fc76c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/aae8ea0728a0129a.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"id":"workspace-theme-bootstrap","dangerouslySetInnerHTML":{"__html":"(() => {\n  if (window.location.pathname !== '/app' && window.location.pathname !== '/app/') return;\n  let theme = 'dark';\n  try {\n    const preferences = JSON.parse(window.localStorage.getItem('linkeai-preferences') || 'null');\n    if (preferences?.theme === 'light' || preferences?.theme === 'dark') theme = preferences.theme;\n  } catch {}\n  document.documentElement.dataset.workspaceTheme = theme;\n})();"}}]}],["$","body",null,{"className":"antialiased","children":["$","$Lc",null,{"children":["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]]}],"isPartial":"$@f","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+7:300
+11:true
+7:C
+10:0
+b:"$undefined"
+f:"$undefined"
+6:"$undefined"

@@ -1,0 +1,1196 @@
+{
+  "origin": "https://stars.chromeexperiments.com/",
+  "retrieved": "2026-10-09",
+  "files": [
+    {
+      "path": "index.html",
+      "source": "https://stars.chromeexperiments.com/index.html",
+      "bytes": 10499,
+      "sha256": "1c8b64dfd56b4b57bf2dd091c51a091930640207301b3126c9f557a96f2901d4"
+    },
+    {
+      "path": "styles/style.css",
+      "source": "https://stars.chromeexperiments.com/styles/style.css",
+      "bytes": 18636,
+      "sha256": "5a45d1d9d3e93caa89a03d9c28b4fcc97cc684787f898834b99c0ed19c452fe7"
+    },
+    {
+      "path": "images/spectral_color_index.png",
+      "source": "https://stars.chromeexperiments.com/images/spectral_color_index.png",
+      "bytes": 7291,
+      "sha256": "dc68685f9cfed24b5542b1e0f338928b364aae6a6501fc72afccb496c1ed655c"
+    },
+    {
+      "path": "images/icons/sound-on.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/sound-on.svg",
+      "bytes": 1881,
+      "sha256": "074fbbfdca09a1c7d58c591a69a89a3d3f38d4a85d28d5a0126ed8e18edf6f66"
+    },
+    {
+      "path": "images/loading6.gif",
+      "source": "https://stars.chromeexperiments.com/images/loading6.gif",
+      "bytes": 81427,
+      "sha256": "120036415aab9649aa91531408ed1b39a1980c3cf70b20c24bf8495bc095d4e3"
+    },
+    {
+      "path": "audio/bgmusic.ogg",
+      "source": "https://stars.chromeexperiments.com/audio/bgmusic.ogg",
+      "bytes": 939610,
+      "sha256": "b42006917c17edaf51ef899d21d821b81f99099fe04010626cabf3c137ad32d0"
+    },
+    {
+      "path": "audio/bgmusic.ogg",
+      "source": "https://stars.chromeexperiments.com/audio/bgmusic.ogg",
+      "bytes": 939610,
+      "sha256": "b42006917c17edaf51ef899d21d821b81f99099fe04010626cabf3c137ad32d0"
+    },
+    {
+      "path": "js/dat.gui.min.js",
+      "source": "https://stars.chromeexperiments.com/js/dat.gui.min.js",
+      "bytes": 45411,
+      "sha256": "06be15e0f469d16952d5f6479a4afa8a9028ae91c7738126222fa97c6c3ecf68"
+    },
+    {
+      "path": "js/three.min.js",
+      "source": "https://stars.chromeexperiments.com/js/three.min.js",
+      "bytes": 410947,
+      "sha256": "9dea460d731fec23e3d9e7bdb1c6767cfb6f8083b472e109bf91d16bf877eb81"
+    },
+    {
+      "path": "js/tween.js",
+      "source": "https://stars.chromeexperiments.com/js/tween.js",
+      "bytes": 10733,
+      "sha256": "9c8d9c9e027f37ab8b93199122c575c104444138ad4ee33421b6d45838c7c829"
+    },
+    {
+      "path": "js/Detector.js",
+      "source": "https://stars.chromeexperiments.com/js/Detector.js",
+      "bytes": 3557,
+      "sha256": "b71ef696d0ba4af4355197a1a1fa3f842f5e3a2ce3929b5298de7c32721bfcb4"
+    },
+    {
+      "path": "js/THREEx.KeyboardState.js",
+      "source": "https://stars.chromeexperiments.com/js/THREEx.KeyboardState.js",
+      "bytes": 3173,
+      "sha256": "ccf535ce9471f4601cf83252230e15cb595bb3bde49a3770e444fb8db4928f18"
+    },
+    {
+      "path": "js/THREEx.WindowResize.js",
+      "source": "https://stars.chromeexperiments.com/js/THREEx.WindowResize.js",
+      "bytes": 1531,
+      "sha256": "c38a0b2804f61339e1ab7d79896a416e4473ae2ee2233aae4bdb869bf999ab16"
+    },
+    {
+      "path": "js/jquery-1.7.1.min.js",
+      "source": "https://stars.chromeexperiments.com/js/jquery-1.7.1.min.js",
+      "bytes": 93868,
+      "sha256": "88171413fc76dda23ab32baa17b11e4fff89141c633ece737852445f1ba6c1bd"
+    },
+    {
+      "path": "js/underscore.js",
+      "source": "https://stars.chromeexperiments.com/js/underscore.js",
+      "bytes": 40965,
+      "sha256": "be85b01a9b56abdb2258ded53fb70779fe33951a9ab5900d1e20c97ac1eaae89"
+    },
+    {
+      "path": "js/jquery.mousewheel.js",
+      "source": "https://stars.chromeexperiments.com/js/jquery.mousewheel.js",
+      "bytes": 2401,
+      "sha256": "db304bdc4ca554cb1618e281739ae11e3911c05b461ea521eaeb102d7c2f93a6"
+    },
+    {
+      "path": "js/jquery.preventMacBackScroll.js",
+      "source": "https://stars.chromeexperiments.com/js/jquery.preventMacBackScroll.js",
+      "bytes": 1875,
+      "sha256": "8759d81c34175ba3d10fa5d27499f27f4356acb8c99fabaf1f53063beb6bcee2"
+    },
+    {
+      "path": "js/util.js",
+      "source": "https://stars.chromeexperiments.com/js/util.js",
+      "bytes": 6203,
+      "sha256": "0da692da1ad4595b2a4b173f31c4ed6bf90239cde30a9425988bf8c437225b08"
+    },
+    {
+      "path": "js/mousekeyboard.js",
+      "source": "https://stars.chromeexperiments.com/js/mousekeyboard.js",
+      "bytes": 5190,
+      "sha256": "409c85109becace46aea6a768081da527b9abdb665c38b6dd59a086b277dc2e3"
+    },
+    {
+      "path": "js/urlArgs.js",
+      "source": "https://stars.chromeexperiments.com/js/urlArgs.js",
+      "bytes": 1349,
+      "sha256": "653583ad9430ae932666e79c5624354d5bcafcbcfc7a20fac53aa14aee9d4b76"
+    },
+    {
+      "path": "js/director.js",
+      "source": "https://stars.chromeexperiments.com/js/director.js",
+      "bytes": 220,
+      "sha256": "44495bb6b141620693cf353713c398276c4d19806e555f4af32a1d779da3f2d6"
+    },
+    {
+      "path": "js/infocallout.js",
+      "source": "https://stars.chromeexperiments.com/js/infocallout.js",
+      "bytes": 1671,
+      "sha256": "867df0d847f097564c473673ebdea01a3311f34d07679c9d8a7de7696ce86d53"
+    },
+    {
+      "path": "js/starsystems.js",
+      "source": "https://stars.chromeexperiments.com/js/starsystems.js",
+      "bytes": 26928,
+      "sha256": "1ad52ec0e1a38c5c3421d4c77dc4570b6685b19d7fc2c3574cbe29c6fbc33fae"
+    },
+    {
+      "path": "js/starmodel.js",
+      "source": "https://stars.chromeexperiments.com/js/starmodel.js",
+      "bytes": 3088,
+      "sha256": "f722b8f1bd9ec905752bd0a645be7f30e06e2ef9aaf370fb4fcc1d82153033ae"
+    },
+    {
+      "path": "js/css3worldspace.js",
+      "source": "https://stars.chromeexperiments.com/js/css3worldspace.js",
+      "bytes": 4825,
+      "sha256": "82ca312f81b0b99e10af3636d3e3a468d4cbc2489de03ef89a23c4c4b90cf4f2"
+    },
+    {
+      "path": "js/helphud.js",
+      "source": "https://stars.chromeexperiments.com/js/helphud.js",
+      "bytes": 553,
+      "sha256": "e6e998a9060445e54989ea9cead483d747cb19c1bb2377acff6c719c848adebd"
+    },
+    {
+      "path": "js/spacehelpers.js",
+      "source": "https://stars.chromeexperiments.com/js/spacehelpers.js",
+      "bytes": 2223,
+      "sha256": "b5224f0560326d41692b47fd0a0aed1813449569a6b0d44da41bd8cc944b59c9"
+    },
+    {
+      "path": "js/shaderlist.js",
+      "source": "https://stars.chromeexperiments.com/js/shaderlist.js",
+      "bytes": 1161,
+      "sha256": "37668a72f5afe0417de1f924aca238b1872ee115d025a96c23d31efb812eaead"
+    },
+    {
+      "path": "js/skybox.js",
+      "source": "https://stars.chromeexperiments.com/js/skybox.js",
+      "bytes": 2226,
+      "sha256": "830714bb7b80ae190001bec2d098acf7a089cc2ada2613c245125937781847a7"
+    },
+    {
+      "path": "js/plane.js",
+      "source": "https://stars.chromeexperiments.com/js/plane.js",
+      "bytes": 2095,
+      "sha256": "2b3555fa7415fb52e87e1e152f52cfdc34f51b66fc69150d205ff60a17a9c261"
+    },
+    {
+      "path": "js/guides.js",
+      "source": "https://stars.chromeexperiments.com/js/guides.js",
+      "bytes": 3084,
+      "sha256": "6ae093f17b5837ae3ff57aadf73d3e38981c25a168ecbb946a5d294bf3d91ace"
+    },
+    {
+      "path": "js/dust.js",
+      "source": "https://stars.chromeexperiments.com/js/dust.js",
+      "bytes": 3193,
+      "sha256": "76257b8f44eba699aa492f8652c8fd20c50662d8469dc8d88cdc83158d991dfa"
+    },
+    {
+      "path": "js/lensflare.js",
+      "source": "https://stars.chromeexperiments.com/js/lensflare.js",
+      "bytes": 3770,
+      "sha256": "f5533cbde598cf84d7635d7b2e5135e7f89cf64af1e2a853c30c6028c75e8ee6"
+    },
+    {
+      "path": "js/hipparcos.js",
+      "source": "https://stars.chromeexperiments.com/js/hipparcos.js",
+      "bytes": 12854,
+      "sha256": "6e0f634200ef20894762d91e8e4a6039f31c72469539a0e64360eb29a4125c28"
+    },
+    {
+      "path": "js/galaxy.js",
+      "source": "https://stars.chromeexperiments.com/js/galaxy.js",
+      "bytes": 8107,
+      "sha256": "d906d0e6b47a4bd8e0ac5bf20cb0acf59c38dc3e6a50efff019199a070a793ae"
+    },
+    {
+      "path": "js/solarsystem.js",
+      "source": "https://stars.chromeexperiments.com/js/solarsystem.js",
+      "bytes": 6463,
+      "sha256": "6b1f04b9663c03ae5fd208b9eed8de8e15d2911a542fd6934037300256280fe8"
+    },
+    {
+      "path": "js/sun.js",
+      "source": "https://stars.chromeexperiments.com/js/sun.js",
+      "bytes": 11246,
+      "sha256": "1e45dca788e2fc6e0d834f8d538f39a2c8f4ce40242353c576fd16aaf14df94f"
+    },
+    {
+      "path": "js/legacymarkers.js",
+      "source": "https://stars.chromeexperiments.com/js/legacymarkers.js",
+      "bytes": 2057,
+      "sha256": "5d773bc5b678240a47d748be3ba2f4e6d1ff1afb881b179ceb9b84ec853407ba"
+    },
+    {
+      "path": "js/marker.js",
+      "source": "https://stars.chromeexperiments.com/js/marker.js",
+      "bytes": 5834,
+      "sha256": "75c0b36d6529441e252b2a81c38e2f54470c4676582741598a7046d3ac3c319e"
+    },
+    {
+      "path": "js/tour.js",
+      "source": "https://stars.chromeexperiments.com/js/tour.js",
+      "bytes": 8963,
+      "sha256": "980f1b91b7d94298de480a31086aeacba6d96b4218826dd3c954e95a03e8f570"
+    },
+    {
+      "path": "js/main.js",
+      "source": "https://stars.chromeexperiments.com/js/main.js",
+      "bytes": 14919,
+      "sha256": "14a7173ef2e2c902d0b710315b67fb6518fd780f25725290bea0ea7c4fda6b15"
+    },
+    {
+      "path": "js/jquery.tooltip.js",
+      "source": "https://stars.chromeexperiments.com/js/jquery.tooltip.js",
+      "bytes": 1044,
+      "sha256": "4e07b0c8d6c32eeac7e20aa40e3ceffccfc1abcf4dd7961e610d8d6680bbdf7b"
+    },
+    {
+      "path": "js/minimap.js",
+      "source": "https://stars.chromeexperiments.com/js/minimap.js",
+      "bytes": 9183,
+      "sha256": "75ba29525917b3ce1d0fed07d212fa55aebe5536d6991c4d86375d145f67ac76"
+    },
+    {
+      "path": "images/tourhighlight.png",
+      "source": "https://stars.chromeexperiments.com/images/tourhighlight.png",
+      "bytes": 8092,
+      "sha256": "3961570f4d629e4a40342fdfa0342f7ad3adec713817b94615458313ba94d319"
+    },
+    {
+      "path": "images/tourhighlight.png",
+      "source": "https://stars.chromeexperiments.com/images/tourhighlight.png",
+      "bytes": 8092,
+      "sha256": "3961570f4d629e4a40342fdfa0342f7ad3adec713817b94615458313ba94d319"
+    },
+    {
+      "path": "images/clamper.png",
+      "source": "https://stars.chromeexperiments.com/images/clamper.png",
+      "bytes": 3391,
+      "sha256": "5915d99519003be5752c723e92c8c91cbb8b4b887f3b776881a251b84a46b45a"
+    },
+    {
+      "path": "shaders/starsurface.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starsurface.vsh",
+      "bytes": 188,
+      "sha256": "0cf115fd41e3684b62a9be53533017a295cf24b91c067db3229598ece8448beb"
+    },
+    {
+      "path": "shaders/starsurface.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starsurface.fsh",
+      "bytes": 2333,
+      "sha256": "6c42ea62b7016ff82ff93d0d109395603053fb145f693800c0226821e77a79bf"
+    },
+    {
+      "path": "shaders/starhalo.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starhalo.vsh",
+      "bytes": 119,
+      "sha256": "c01e8a800f7c1b741e34c527cc8d10619a74a8e79705bb857e80a13a5c6b1e27"
+    },
+    {
+      "path": "shaders/starhalo.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starhalo.fsh",
+      "bytes": 935,
+      "sha256": "6fd02f79130e0ce26d3395e65f3ba166097437672b5bee12c531615dee693fa7"
+    },
+    {
+      "path": "shaders/starflare.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starflare.vsh",
+      "bytes": 2665,
+      "sha256": "25c0426b0971d33458e9ca127894be80c06c02281138bfa4d17817d083a07139"
+    },
+    {
+      "path": "shaders/starflare.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/starflare.fsh",
+      "bytes": 1121,
+      "sha256": "26c12aaede902121cc7a223927feed01f3a5400f74477e93f8d6eacc931bc53c"
+    },
+    {
+      "path": "shaders/galacticstars.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticstars.vsh",
+      "bytes": 565,
+      "sha256": "b2ecca13a03bd472f438655b1d4c261962af5e72e1319c22298173f140844e60"
+    },
+    {
+      "path": "shaders/galacticstars.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticstars.fsh",
+      "bytes": 875,
+      "sha256": "df48d77a7f88da67fbf2df5635cbc4e7cc242c0418a8554e7a9627edf89d26b1"
+    },
+    {
+      "path": "shaders/galacticdust.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticdust.vsh",
+      "bytes": 425,
+      "sha256": "58962557c566ec478020e7e78c470286b40eea5722e991a8e2a0045903afaafd"
+    },
+    {
+      "path": "shaders/galacticdust.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticdust.fsh",
+      "bytes": 341,
+      "sha256": "d86ddd88f4b5534e65af518a2357c759fa8249340bcfd646c409158307ccd390"
+    },
+    {
+      "path": "shaders/datastars.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/datastars.vsh",
+      "bytes": 599,
+      "sha256": "7aab7f7f9cdf559937af9fe99cce2e751652d063357aea994377b975da732385"
+    },
+    {
+      "path": "shaders/datastars.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/datastars.fsh",
+      "bytes": 1610,
+      "sha256": "7604331f6439cabad939a5cf594021b8ffcf700815c1a7b0907a8c8445fb3754"
+    },
+    {
+      "path": "shaders/cubemapcustom.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/cubemapcustom.vsh",
+      "bytes": 222,
+      "sha256": "9454d30167d03638932c735a264de7bb199506c2da80f950c9c26b7691108e3e"
+    },
+    {
+      "path": "shaders/cubemapcustom.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/cubemapcustom.fsh",
+      "bytes": 296,
+      "sha256": "ad20fc3e2d965140cd0cdb2f401b39906362010b0a0771fd92bb713ebbf269f4"
+    },
+    {
+      "path": "shaders/corona.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/corona.vsh",
+      "bytes": 119,
+      "sha256": "c01e8a800f7c1b741e34c527cc8d10619a74a8e79705bb857e80a13a5c6b1e27"
+    },
+    {
+      "path": "shaders/corona.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/corona.fsh",
+      "bytes": 830,
+      "sha256": "179cba29905a056a160305f0dcc7a7bac446b1997b9a4808f8da06d18288c90f"
+    },
+    {
+      "path": "images/glowspan.png",
+      "source": "https://stars.chromeexperiments.com/images/glowspan.png",
+      "bytes": 3015,
+      "sha256": "d0792eeb143e0fee9f728cc13d4d6258d7ea88c52b99937484cbdc73232997c2"
+    },
+    {
+      "path": "images/p_1.png",
+      "source": "https://stars.chromeexperiments.com/images/p_1.png",
+      "bytes": 70437,
+      "sha256": "9b5343e59f0df427e0b9830fbf6120fa79f9198bedb4efb78b69ea3cfdc721c0"
+    },
+    {
+      "path": "images/dust.png",
+      "source": "https://stars.chromeexperiments.com/images/dust.png",
+      "bytes": 58377,
+      "sha256": "26a6e83c2dfa3081287ecfb7c0e0295b53b71532b3925f1142e1316f48750352"
+    },
+    {
+      "path": "images/lensflare/lensflare0.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare0.png",
+      "bytes": 38902,
+      "sha256": "dc578ad08bc4a67215700e4f7841721b5eec576f2d887670e13c2c1ecaf7d8e1"
+    },
+    {
+      "path": "images/lensflare/lensflare1.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare1.png",
+      "bytes": 4025,
+      "sha256": "d49a9973b51890e4b556411fa1423ae71a2603b98e0ccd33d75baa58d73805c0"
+    },
+    {
+      "path": "images/lensflare/lensflare2.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare2.png",
+      "bytes": 2107,
+      "sha256": "582adb92597726150b33129024d1071b31df32546646842d06d466ba9ba87993"
+    },
+    {
+      "path": "images/lensflare/lensflare3.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare3.png",
+      "bytes": 4866,
+      "sha256": "bf72802647629956d0dd3dd4f5cade482be1a73207d6624cc014b3dfbf4f47f4"
+    },
+    {
+      "path": "images/p_0.png",
+      "source": "https://stars.chromeexperiments.com/images/p_0.png",
+      "bytes": 53535,
+      "sha256": "2c9228e938ace2802e1d6de0ad46ed2607f269bfe1b80e819b5bc931719dc8ec"
+    },
+    {
+      "path": "images/p_2.png",
+      "source": "https://stars.chromeexperiments.com/images/p_2.png",
+      "bytes": 119161,
+      "sha256": "6699f4518eecce152aa08738f8fe637e57baa05b6ee1ac2b44d7652e043c81e3"
+    },
+    {
+      "path": "images/sharppoint.png",
+      "source": "https://stars.chromeexperiments.com/images/sharppoint.png",
+      "bytes": 2965,
+      "sha256": "03bfd730b41f55e5f2c6c024d0ef9713d8e42bd3c610250194f55964dc3c08e3"
+    },
+    {
+      "path": "images/star_preview.png",
+      "source": "https://stars.chromeexperiments.com/images/star_preview.png",
+      "bytes": 30462,
+      "sha256": "38f3a876581d0350bd8109dcfaf9ea52051189f32056ba9465baaa3a8d7b2258"
+    },
+    {
+      "path": "images/star_color_modified.png",
+      "source": "https://stars.chromeexperiments.com/images/star_color_modified.png",
+      "bytes": 6428,
+      "sha256": "2ecd2f84f2916d339133b8f31daa0fe2c4a1857d069ffd155b5582c529d8c993"
+    },
+    {
+      "path": "images/starbase.png",
+      "source": "https://stars.chromeexperiments.com/images/starbase.png",
+      "bytes": 41304,
+      "sha256": "8751ad2c04d6285933ae9799a53a5bff74be9d82338510742a5bba3741e1c2ff"
+    },
+    {
+      "path": "images/galactic_sharp.png",
+      "source": "https://stars.chromeexperiments.com/images/galactic_sharp.png",
+      "bytes": 49077,
+      "sha256": "ae9527c36dfdd91294bf8ff9dcd38469c2588662a9e45f34a3cdcae250b661f8"
+    },
+    {
+      "path": "images/galactic_blur.png",
+      "source": "https://stars.chromeexperiments.com/images/galactic_blur.png",
+      "bytes": 21547,
+      "sha256": "2b261f421e2b791f493657915a172eb1c563cf1614e9ec783f127ab6f5dbb114"
+    },
+    {
+      "path": "images/galactictop.png",
+      "source": "https://stars.chromeexperiments.com/images/galactictop.png",
+      "bytes": 292925,
+      "sha256": "99d89cc6c1ca851b06124ca3a8ee459de786d75a5e78ea9a255639625f6cb9c6"
+    },
+    {
+      "path": "images/earth.png",
+      "source": "https://stars.chromeexperiments.com/images/earth.png",
+      "bytes": 73940,
+      "sha256": "84a8f12932717308de5c5b6fa84bdb2f7fc84f7ee2e22cf08cd777ebc1731401"
+    },
+    {
+      "path": "images/sun_surface.png",
+      "source": "https://stars.chromeexperiments.com/images/sun_surface.png",
+      "bytes": 771118,
+      "sha256": "889d69e26bd9a184c6ec8c2843ed25e1fa0f539bb11c0d068736f831f2493b92"
+    },
+    {
+      "path": "images/star_colorshift.png",
+      "source": "https://stars.chromeexperiments.com/images/star_colorshift.png",
+      "bytes": 2956,
+      "sha256": "cfab829c5bb9a19d8ae9b883e6bbe4ae02eb3ee6c220022f0ed056b24a69b4c0"
+    },
+    {
+      "path": "images/solarflare.png",
+      "source": "https://stars.chromeexperiments.com/images/solarflare.png",
+      "bytes": 140776,
+      "sha256": "84ff52c748b7e5e6db5c1f42c9bffdfe9cf047d467472ac883631816b186b471"
+    },
+    {
+      "path": "images/sun_halo.png",
+      "source": "https://stars.chromeexperiments.com/images/sun_halo.png",
+      "bytes": 69023,
+      "sha256": "3bf9721b42a6900dc68e73a2f82cbe5af12898f503e1a234b6e64e665ee85277"
+    },
+    {
+      "path": "images/halo_colorshift.png",
+      "source": "https://stars.chromeexperiments.com/images/halo_colorshift.png",
+      "bytes": 3121,
+      "sha256": "a5a1917c45c2343f0dc6d2b024da91956b498aea20b10933badf62e5bbe5ff0a"
+    },
+    {
+      "path": "images/corona.png",
+      "source": "https://stars.chromeexperiments.com/images/corona.png",
+      "bytes": 20597,
+      "sha256": "166278838f356da53903152b4934af9f9baa544baacfc5509afc9f4d02a2aa0d"
+    },
+    {
+      "path": "images/star_color_modified.png",
+      "source": "https://stars.chromeexperiments.com/images/star_color_modified.png",
+      "bytes": 6428,
+      "sha256": "2ecd2f84f2916d339133b8f31daa0fe2c4a1857d069ffd155b5582c529d8c993"
+    },
+    {
+      "path": "data/stars_all.json",
+      "source": "https://stars.chromeexperiments.com/data/stars_all.json",
+      "bytes": 8988378,
+      "sha256": "25d55df0daec8d88e1c63345538d8f558cea8fc815149604632527c86e34d8e0"
+    },
+    {
+      "path": "images/icons/zoom-out.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/zoom-out.svg",
+      "bytes": 1200,
+      "sha256": "78be2d1286e3a6c88792c23e3a45e88bb747bf7207cd5d833bdfaaea7902491b"
+    },
+    {
+      "path": "images/icons/sound-off.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/sound-off.svg",
+      "bytes": 1104,
+      "sha256": "4a43daf5d05c9a4ae78504b133bf3c27ec24cff83044eeca2d10eaf3ded400e1"
+    },
+    {
+      "path": "images/icons/big-tour.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/big-tour.svg",
+      "bytes": 1216,
+      "sha256": "828f48f63f0bc0db5bcc08d18897a1ccb64ec8592760fb201d84905f4a8bcaad"
+    },
+    {
+      "path": "images/icons/heat-vision.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/heat-vision.svg",
+      "bytes": 2028,
+      "sha256": "c60214eea9d3a8a8ac9f2ea97820f1a8d722478a292bf099e7ea5b7b54862826"
+    },
+    {
+      "path": "images/icons/center-sun.svg",
+      "source": "https://stars.chromeexperiments.com/images/icons/center-sun.svg",
+      "bytes": 5219,
+      "sha256": "3cb41f12c364261d6cb5194c3035a74c2f2f566e89070bc6e689168170e05ed1"
+    },
+    {
+      "path": "images/ss_skybox/s_px.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_px.jpg",
+      "bytes": 416047,
+      "sha256": "5f6a7d7e45d89a9f343b0a85a58872693c23bbd7814e05ba729608c2a8968b85"
+    },
+    {
+      "path": "images/ss_skybox/s_nx.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_nx.jpg",
+      "bytes": 400225,
+      "sha256": "420bb62f566c10e3b95ece7cdd1aca19b7cae04da222a37b50ce087b94dbaf21"
+    },
+    {
+      "path": "images/ss_skybox/s_py.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_py.jpg",
+      "bytes": 467139,
+      "sha256": "35c042d3074a0d2cf3235c4bf18780932bdeaa6a342c61ffe97c6ba460932659"
+    },
+    {
+      "path": "images/ss_skybox/s_ny.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_ny.jpg",
+      "bytes": 465091,
+      "sha256": "c4c61ffb137897a7fa5a0b4a2975e9fe21bebb729cb33e57ec77d91c6a9d9a94"
+    },
+    {
+      "path": "images/ss_skybox/s_pz.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_pz.jpg",
+      "bytes": 499816,
+      "sha256": "188cc29b847adf8d492b36a1a51c8291ef15fdcc1493d635e1188e35ac55247e"
+    },
+    {
+      "path": "images/ss_skybox/s_nz.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/s_nz.jpg",
+      "bytes": 488895,
+      "sha256": "698fd8daab76c45c366c34d23eed7b7a604fee66c488da57d3f6a197de6d5683"
+    },
+    {
+      "path": "images/ss_skybox/px.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/px.jpg",
+      "bytes": 821323,
+      "sha256": "8df691a484fed24db05db12fa774e1867d84fc34ceca4c2f08d12176b378f611"
+    },
+    {
+      "path": "images/ss_skybox/nx.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/nx.jpg",
+      "bytes": 801788,
+      "sha256": "3711885c78bc60041e69f47ee719ac0ced53bb863183cdcb8d9ca49f8adbf981"
+    },
+    {
+      "path": "images/ss_skybox/py.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/py.jpg",
+      "bytes": 614635,
+      "sha256": "08b5c5b0a0d170ce964799f86b50d7072389fb7dc7b029f8aa379d010b3e2df0"
+    },
+    {
+      "path": "images/ss_skybox/ny.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/ny.jpg",
+      "bytes": 636730,
+      "sha256": "ba9a092ee1d2b38eeaa358675b64bf05ed164af9272dd267c2e1e268d81d4188"
+    },
+    {
+      "path": "images/ss_skybox/pz.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/pz.jpg",
+      "bytes": 849624,
+      "sha256": "ae7d4407b108cf679ad9a1eb4fea340f063e885049b7dc5ac3525965e8327d6d"
+    },
+    {
+      "path": "images/ss_skybox/nz.jpg",
+      "source": "https://stars.chromeexperiments.com/images/ss_skybox/nz.jpg",
+      "bytes": 803279,
+      "sha256": "5d00b45e52a205cc8c03b0fc170a41cc5d4ee493f099bd841bbff43c2f65f383"
+    },
+    {
+      "path": "detail/sol.html",
+      "source": "https://stars.chromeexperiments.com/detail/sol.html",
+      "bytes": 2010,
+      "sha256": "ce3aa5f1f0fe9ac3da205aba63ba18957c2762b701e7b51639aa68893ef38e20"
+    },
+    {
+      "path": "detail/alpheratz.html",
+      "source": "https://stars.chromeexperiments.com/detail/alpheratz.html",
+      "bytes": 2975,
+      "sha256": "05ddf4689f36ea1a623e1bd8d5f60e12a77b44ddfae79790f7a3dd7c79b7a153"
+    },
+    {
+      "path": "detail/caph.html",
+      "source": "https://stars.chromeexperiments.com/detail/caph.html",
+      "bytes": 1585,
+      "sha256": "7418d451521427ff372fd968cdad556e076f9e648b55583232aa96ce28ccfeb7"
+    },
+    {
+      "path": "detail/algenib.html",
+      "source": "https://stars.chromeexperiments.com/detail/algenib.html",
+      "bytes": 6590,
+      "sha256": "7942c5d8ea979daae35ad6b5a2db26902009dd5266cfd061c7e654993308008c"
+    },
+    {
+      "path": "detail/ankaa.html",
+      "source": "https://stars.chromeexperiments.com/detail/ankaa.html",
+      "bytes": 4886,
+      "sha256": "4ecab505e06ccc81b2eee0eefd4eac31f87ca4432d624207518b0cb85b497b0e"
+    },
+    {
+      "path": "detail/shedir.html",
+      "source": "https://stars.chromeexperiments.com/detail/shedir.html",
+      "bytes": 1436,
+      "sha256": "a381cd9e312ecd878e838d5b9200a412f5bb07e4388c3ce359e6e3ee10e21f90"
+    },
+    {
+      "path": "detail/diphda.html",
+      "source": "https://stars.chromeexperiments.com/detail/diphda.html",
+      "bytes": 1137,
+      "sha256": "83b36a028252752a85742cd49d59696ccb822144a281b5477b4ca1fdd5cc80a0"
+    },
+    {
+      "path": "detail/96_g._psc.html",
+      "source": "https://stars.chromeexperiments.com/detail/96_g._psc.html",
+      "bytes": 1768,
+      "sha256": "8f5387fb5b94739941fed24ea7180795d0317b012fb853b6baf95572bc5c90b1"
+    },
+    {
+      "path": "detail/mirach.html",
+      "source": "https://stars.chromeexperiments.com/detail/mirach.html",
+      "bytes": 2523,
+      "sha256": "bc91f8aefb4645f841c8719949464d125a83467ad9e99695fbab554a936d1c27"
+    },
+    {
+      "path": "detail/achernar.html",
+      "source": "https://stars.chromeexperiments.com/detail/achernar.html",
+      "bytes": 6135,
+      "sha256": "2cd4ee361d70315101088ce8db2f6e48489143adbd319eefb05644caedd8d404"
+    },
+    {
+      "path": "detail/p_eridani.html",
+      "source": "https://stars.chromeexperiments.com/detail/p_eridani.html",
+      "bytes": 901,
+      "sha256": "ee3a333ce98ca7e0dfe2e398479e9f56a920f8c6237036c05426b73ca62202f4"
+    },
+    {
+      "path": "detail/hamal.html",
+      "source": "https://stars.chromeexperiments.com/detail/hamal.html",
+      "bytes": 2278,
+      "sha256": "4fd961dffe95ee66d3b7e213a84e8ff9fc55da2431013ae008f3739ab9e1822c"
+    },
+    {
+      "path": "detail/polaris.html",
+      "source": "https://stars.chromeexperiments.com/detail/polaris.html",
+      "bytes": 3056,
+      "sha256": "0c10b19121fa5e79d217d64f7aa06402c2cc57ea5c62ef63f6fe0db21a34a2d3"
+    },
+    {
+      "path": "detail/268_g._cet.html",
+      "source": "https://stars.chromeexperiments.com/detail/268_g._cet.html",
+      "bytes": 1609,
+      "sha256": "521e9c7f4c3755213a602b6a22d903ed1ae5f7c369a86375798f52aca9a57933"
+    },
+    {
+      "path": "detail/menkar.html",
+      "source": "https://stars.chromeexperiments.com/detail/menkar.html",
+      "bytes": 2832,
+      "sha256": "477c1e65be52c6fa1828b685764c47d01b0307930bc9ef62c1a8596cc6f1c3ce"
+    },
+    {
+      "path": "detail/algol.html",
+      "source": "https://stars.chromeexperiments.com/detail/algol.html",
+      "bytes": 1679,
+      "sha256": "757424d0cbe7e4c87eb7ee3c7f9ec74889966b15a439ec2008228d1c29d7235a"
+    },
+    {
+      "path": "detail/82_g._eri.html",
+      "source": "https://stars.chromeexperiments.com/detail/82_g._eri.html",
+      "bytes": 702,
+      "sha256": "820e6c18a5fb2c09d6a2f3a285c7327fb8b33b6528f2cfc50ae674080152fce2"
+    },
+    {
+      "path": "detail/mirphak.html",
+      "source": "https://stars.chromeexperiments.com/detail/mirphak.html",
+      "bytes": 2041,
+      "sha256": "4ef66898edbabc22445ee7da7a2d080fdcee28d711c31bee9de806765da91d9e"
+    },
+    {
+      "path": "detail/alcyone.html",
+      "source": "https://stars.chromeexperiments.com/detail/alcyone.html",
+      "bytes": 1228,
+      "sha256": "400f2dd8d3e1b128bfb6d8001b83ef453e5c592748b08babe7fa75a8cf3eef83"
+    },
+    {
+      "path": "detail/aldebaran.html",
+      "source": "https://stars.chromeexperiments.com/detail/aldebaran.html",
+      "bytes": 1800,
+      "sha256": "2120c606d0e41679f1ed26f9e8c09b684105b15e3403a868736024af396c3fa3"
+    },
+    {
+      "path": "detail/rigel.html",
+      "source": "https://stars.chromeexperiments.com/detail/rigel.html",
+      "bytes": 1002,
+      "sha256": "d82cacc6bf326c04a1e6fdf4fc97827699a34e059025a5f40f49b1a4604b5d37"
+    },
+    {
+      "path": "detail/capella.html",
+      "source": "https://stars.chromeexperiments.com/detail/capella.html",
+      "bytes": 2081,
+      "sha256": "f026c0c3fa0b3d437bba1e82d4edd6ac0f301cdcab1097ffd0f8a7fac50c77d8"
+    },
+    {
+      "path": "detail/bellatrix.html",
+      "source": "https://stars.chromeexperiments.com/detail/bellatrix.html",
+      "bytes": 6024,
+      "sha256": "448a1b5ff85adc41f402894c67b6a09a8c755629ee898cdffdbb2ea0db720043"
+    },
+    {
+      "path": "detail/alnath.html",
+      "source": "https://stars.chromeexperiments.com/detail/alnath.html",
+      "bytes": 968,
+      "sha256": "7f2c0619938aaa58964311d8e8603cd88ef6df983ca360cbe38b14c546e7cfa4"
+    },
+    {
+      "path": "detail/nihal.html",
+      "source": "https://stars.chromeexperiments.com/detail/nihal.html",
+      "bytes": 3330,
+      "sha256": "1fad0b9aae3104fa5a1fe42f303e70fe2329f61c29ac9adca7237c9b0a2e0ca0"
+    },
+    {
+      "path": "detail/arneb.html",
+      "source": "https://stars.chromeexperiments.com/detail/arneb.html",
+      "bytes": 3951,
+      "sha256": "a43755da1f04d3dbe1d300d1fd604c9047d073d219f6dbb2335ac49db41824ce"
+    },
+    {
+      "path": "detail/alnilam.html",
+      "source": "https://stars.chromeexperiments.com/detail/alnilam.html",
+      "bytes": 2602,
+      "sha256": "69db32f4c55644edc3c5449cd1eb58c5c5b7d2e9cbd699bf910eb74f1a6199ba"
+    },
+    {
+      "path": "detail/alnitak.html",
+      "source": "https://stars.chromeexperiments.com/detail/alnitak.html",
+      "bytes": 1500,
+      "sha256": "0f543bf9d42d768fa065d15f1ab9c25e27b1728ea141a0eec9a1a359e76ea006"
+    },
+    {
+      "path": "detail/saiph.html",
+      "source": "https://stars.chromeexperiments.com/detail/saiph.html",
+      "bytes": 4169,
+      "sha256": "8283080c51a6952d1af6d0f0a70ec8819c0e33f4f2e9a2de4cfa9bc4e6786186"
+    },
+    {
+      "path": "detail/betelgeuse.html",
+      "source": "https://stars.chromeexperiments.com/detail/betelgeuse.html",
+      "bytes": 9307,
+      "sha256": "bff02e95fba6674c8aeff4db8c573f30c600ea6185126ec767c793e92ed0ed70"
+    },
+    {
+      "path": "detail/canopus.html",
+      "source": "https://stars.chromeexperiments.com/detail/canopus.html",
+      "bytes": 3379,
+      "sha256": "94b65b667353731a5b3557f99831a2a271323261a59007cf8e4c05348fd5860d"
+    },
+    {
+      "path": "detail/alhena.html",
+      "source": "https://stars.chromeexperiments.com/detail/alhena.html",
+      "bytes": 1303,
+      "sha256": "c3b2be189ff7964cf53cd86127f00e563f7e7b702b6d8a7427372063b71608b2"
+    },
+    {
+      "path": "detail/sirius.html",
+      "source": "https://stars.chromeexperiments.com/detail/sirius.html",
+      "bytes": 5289,
+      "sha256": "8dd1dd8334045f80bee1b461318ec958fa62dfc702fa48db2f2a1027fd90a67e"
+    },
+    {
+      "path": "detail/adhara.html",
+      "source": "https://stars.chromeexperiments.com/detail/adhara.html",
+      "bytes": 3355,
+      "sha256": "f3d3952b7de64cd009c06ade4f352c4cc292d8fa95776fc64c217e9865f23c31"
+    },
+    {
+      "path": "detail/castor.html",
+      "source": "https://stars.chromeexperiments.com/detail/castor.html",
+      "bytes": 725,
+      "sha256": "f6518cbc7244e11b92f879d82df7a9e2a5c566561d87b2b61e2c8149e58628db"
+    },
+    {
+      "path": "detail/procyon.html",
+      "source": "https://stars.chromeexperiments.com/detail/procyon.html",
+      "bytes": 2498,
+      "sha256": "e246bc4414868f8801deb1113b8af77b54e81a14e5cfe391a3647a5662d53c62"
+    },
+    {
+      "path": "detail/pollux.html",
+      "source": "https://stars.chromeexperiments.com/detail/pollux.html",
+      "bytes": 2411,
+      "sha256": "97e35371086e006b7f46e7f66ff8d66a934b906c8c9f051800198bf7b831992f"
+    },
+    {
+      "path": "detail/alphard.html",
+      "source": "https://stars.chromeexperiments.com/detail/alphard.html",
+      "bytes": 3026,
+      "sha256": "d0f29a2548aee590a1328d8a8613b8091c319787c81a3cc52eccab9f5120aeaa"
+    },
+    {
+      "path": "detail/regulus.html",
+      "source": "https://stars.chromeexperiments.com/detail/regulus.html",
+      "bytes": 1392,
+      "sha256": "62e9a8451e84c1093b88f2fdcc95272a09304fefc3eb44c205ea8c720580cf6e"
+    },
+    {
+      "path": "detail/groombridge_1618.html",
+      "source": "https://stars.chromeexperiments.com/detail/groombridge_1618.html",
+      "bytes": 681,
+      "sha256": "29f65fad6b7688d730c49c385b8e15d05820ace83bf528ce74a26b229ca3e1fc"
+    },
+    {
+      "path": "detail/algieba.html",
+      "source": "https://stars.chromeexperiments.com/detail/algieba.html",
+      "bytes": 458,
+      "sha256": "e5ebbe9bb365170af4185179cd3df660cdcd8ada89face13f231611fcc9e1687"
+    },
+    {
+      "path": "detail/merak.html",
+      "source": "https://stars.chromeexperiments.com/detail/merak.html",
+      "bytes": 1488,
+      "sha256": "f899b0378edbf79ae8229256376e07f382796ebbb9ae2dfee3010d6d86fc4a45"
+    },
+    {
+      "path": "detail/lalande_21185.html",
+      "source": "https://stars.chromeexperiments.com/detail/lalande_21185.html",
+      "bytes": 3057,
+      "sha256": "8f5916296810f9c9702e840faa3c7f664cd83c1a0ebd54d0dec68c91322e2754"
+    },
+    {
+      "path": "detail/dubhe.html",
+      "source": "https://stars.chromeexperiments.com/detail/dubhe.html",
+      "bytes": 2498,
+      "sha256": "ed93fec8a80186397d03809162f88272f528d3a582623ff44c2ccb63f7219817"
+    },
+    {
+      "path": "detail/denebola.html",
+      "source": "https://stars.chromeexperiments.com/detail/denebola.html",
+      "bytes": 1877,
+      "sha256": "7957ecd0c7b6120a50741ef4f0bf166d7d2156048b0e6192713844ddf69acc97"
+    },
+    {
+      "path": "detail/groombridge_1830.html",
+      "source": "https://stars.chromeexperiments.com/detail/groombridge_1830.html",
+      "bytes": 2967,
+      "sha256": "1c6883b6588c3ee6553600f0d84c20abe0706d0e4280c15431050554495109fc"
+    },
+    {
+      "path": "detail/phad.html",
+      "source": "https://stars.chromeexperiments.com/detail/phad.html",
+      "bytes": 5397,
+      "sha256": "e6f15116bf5f3707d56c6851a08d5b9e89f7ab951ec8146929beb36ed66a6414"
+    },
+    {
+      "path": "detail/acrux.html",
+      "source": "https://stars.chromeexperiments.com/detail/acrux.html",
+      "bytes": 1091,
+      "sha256": "7e2141acba63361a0f1bc7a73194c4ac7da0116439388bd8fa2314d4b973c0ee"
+    },
+    {
+      "path": "detail/alioth.html",
+      "source": "https://stars.chromeexperiments.com/detail/alioth.html",
+      "bytes": 1512,
+      "sha256": "8041786996ff95d3cf4f697c77f4a18f04c82fb982110ad8157c4e8567c2962f"
+    },
+    {
+      "path": "detail/vindemiatrix.html",
+      "source": "https://stars.chromeexperiments.com/detail/vindemiatrix.html",
+      "bytes": 4393,
+      "sha256": "b81c6bf190001461e5e93bf91e550eee8aa18f5a8fb3126a5b1655f2e2da933c"
+    },
+    {
+      "path": "detail/mizar.html",
+      "source": "https://stars.chromeexperiments.com/detail/mizar.html",
+      "bytes": 4519,
+      "sha256": "192003317e8f37f5c637581f45ae8298069f0d83ef48a10246e9baaf0e321569"
+    },
+    {
+      "path": "detail/spica.html",
+      "source": "https://stars.chromeexperiments.com/detail/spica.html",
+      "bytes": 1007,
+      "sha256": "83a863174474a3272067e42bbcafa46a1c4f842dba676ba544efc9ca2da414b2"
+    },
+    {
+      "path": "detail/alkaid.html",
+      "source": "https://stars.chromeexperiments.com/detail/alkaid.html",
+      "bytes": 3670,
+      "sha256": "1727d2beb853a8c172211313f1c6b9d2ca1cd91d0e24a02f2c19be477b461232"
+    },
+    {
+      "path": "detail/hadar.html",
+      "source": "https://stars.chromeexperiments.com/detail/hadar.html",
+      "bytes": 2651,
+      "sha256": "766878bdfc610956cd60641ffdfb48cdba04354bc502d7cfef2bda9c2813ee8f"
+    },
+    {
+      "path": "detail/arcturus.html",
+      "source": "https://stars.chromeexperiments.com/detail/arcturus.html",
+      "bytes": 3024,
+      "sha256": "621c14ddc72a16649482ef81398b6f76d3c286b692ede03bf36d2e1605dd7e7e"
+    },
+    {
+      "path": "detail/proxima_centauri.html",
+      "source": "https://stars.chromeexperiments.com/detail/proxima_centauri.html",
+      "bytes": 6170,
+      "sha256": "10e3b12b73773494d108ca0afd5b24856af396811d4479f5b3bb21a10b01e696"
+    },
+    {
+      "path": "detail/rigel_kentaurus_b.html",
+      "source": "https://stars.chromeexperiments.com/detail/rigel_kentaurus_b.html",
+      "bytes": 4297,
+      "sha256": "a477dde1a8b4d94d0b509344bc9bd179c56289bb03d3220b8a83c5403bc1c5b4"
+    },
+    {
+      "path": "detail/rigel_kentaurus_a.html",
+      "source": "https://stars.chromeexperiments.com/detail/rigel_kentaurus_a.html",
+      "bytes": 4297,
+      "sha256": "a477dde1a8b4d94d0b509344bc9bd179c56289bb03d3220b8a83c5403bc1c5b4"
+    },
+    {
+      "path": "detail/izar.html",
+      "source": "https://stars.chromeexperiments.com/detail/izar.html",
+      "bytes": 784,
+      "sha256": "0939d119b8015a6b1ee5556643accab25f3a5cdbebbc44d3a10fd2bc45888952"
+    },
+    {
+      "path": "detail/kochab.html",
+      "source": "https://stars.chromeexperiments.com/detail/kochab.html",
+      "bytes": 2106,
+      "sha256": "c0c23a0e34abe59ab0f336f803e9dbca7634d71d8b087f7c1cd1ada154486911"
+    },
+    {
+      "path": "detail/33_g._lib.html",
+      "source": "https://stars.chromeexperiments.com/detail/33_g._lib.html",
+      "bytes": 1021,
+      "sha256": "aa29f23e77a9de41dbf219522b3bd53bba02b88f53c09c2e7b83bebf7fbfea30"
+    },
+    {
+      "path": "detail/alphekka.html",
+      "source": "https://stars.chromeexperiments.com/detail/alphekka.html",
+      "bytes": 4268,
+      "sha256": "60ce744c2e47219824d8b46b3cd54a913923895e6e8c1c6ffc4de26736780a59"
+    },
+    {
+      "path": "detail/unukalhai.html",
+      "source": "https://stars.chromeexperiments.com/detail/unukalhai.html",
+      "bytes": 3566,
+      "sha256": "f94c832f7b7d9cff79dabb3899b17fdc27c090083c293820441a0d7b6402d299"
+    },
+    {
+      "path": "detail/antares.html",
+      "source": "https://stars.chromeexperiments.com/detail/antares.html",
+      "bytes": 5529,
+      "sha256": "ba53d2756154761243fab7d7c0ece80821b275f025e29c0f8a1c9faff96116a9"
+    },
+    {
+      "path": "detail/rasalgethi.html",
+      "source": "https://stars.chromeexperiments.com/detail/rasalgethi.html",
+      "bytes": 2250,
+      "sha256": "434e581ac5a43f931c443c3cce9aeb7e4e98037f2515e541bb7a10d4ec96e245"
+    },
+    {
+      "path": "detail/shaula.html",
+      "source": "https://stars.chromeexperiments.com/detail/shaula.html",
+      "bytes": 978,
+      "sha256": "b11583a3d3699476500da9eacae6960648de75be59bc318b1e4fc607961d6859"
+    },
+    {
+      "path": "detail/rasalhague.html",
+      "source": "https://stars.chromeexperiments.com/detail/rasalhague.html",
+      "bytes": 5208,
+      "sha256": "daed68599818bf5dca707fadb14bfcc0cd178d44206d712da687a451950586be"
+    },
+    {
+      "path": "detail/etamin.html",
+      "source": "https://stars.chromeexperiments.com/detail/etamin.html",
+      "bytes": 3009,
+      "sha256": "7857eb47a1fc32a70f47bd58271ae035ccb12b304a432903eb0274bb97a7d2c9"
+    },
+    {
+      "path": "detail/kaus_australis.html",
+      "source": "https://stars.chromeexperiments.com/detail/kaus_australis.html",
+      "bytes": 1519,
+      "sha256": "0a0fe2f75a7a67d02401378efe897a7c2c567085df72050046b5fd8c72c8dd8e"
+    },
+    {
+      "path": "detail/vega.html",
+      "source": "https://stars.chromeexperiments.com/detail/vega.html",
+      "bytes": 5064,
+      "sha256": "bda57b41a837c6478479a493554725b39ae1888eca875caadb6c573d0c7f0858"
+    },
+    {
+      "path": "detail/nunki.html",
+      "source": "https://stars.chromeexperiments.com/detail/nunki.html",
+      "bytes": 4326,
+      "sha256": "0839f80abd1c91a2e4aacb76a60286b044048dbc892ac5c0e4f2cac4fcb5c58c"
+    },
+    {
+      "path": "detail/tarazed.html",
+      "source": "https://stars.chromeexperiments.com/detail/tarazed.html",
+      "bytes": 3716,
+      "sha256": "fa94f3e112aab3a2216884288be4bcf1077cd9cd9e8557f5ac71e31f89d979ea"
+    },
+    {
+      "path": "detail/altair.html",
+      "source": "https://stars.chromeexperiments.com/detail/altair.html",
+      "bytes": 2563,
+      "sha256": "ec60827dea7487736dc9eae161b76f6eff0f1fbfdce7c4d38f4ad129381a66c9"
+    },
+    {
+      "path": "detail/deneb.html",
+      "source": "https://stars.chromeexperiments.com/detail/deneb.html",
+      "bytes": 1175,
+      "sha256": "5197b8ac5a9c2d11b7481ae9dc2622938f4678bb5c4c1f325f1e771a283f4999"
+    },
+    {
+      "path": "detail/lacaille_8760.html",
+      "source": "https://stars.chromeexperiments.com/detail/lacaille_8760.html",
+      "bytes": 3322,
+      "sha256": "77a65e267b6c8c5c7cd8fb8571b8f26bd55febc577ec88ce7c9db3b45e9c7a4d"
+    },
+    {
+      "path": "detail/alderamin.html",
+      "source": "https://stars.chromeexperiments.com/detail/alderamin.html",
+      "bytes": 624,
+      "sha256": "98bad307f53bf936972f5becb8ecb67be096b73b7d40833fc358e1a9afc6b789"
+    },
+    {
+      "path": "detail/enif.html",
+      "source": "https://stars.chromeexperiments.com/detail/enif.html",
+      "bytes": 2548,
+      "sha256": "52becfee69b2652c48cbf98c790ac1e1d5acd25a35842c389e44f81f52a7422d"
+    },
+    {
+      "path": "detail/alnair.html",
+      "source": "https://stars.chromeexperiments.com/detail/alnair.html",
+      "bytes": 696,
+      "sha256": "6cce5353291fe1c8759abde0d2da71a2fdfc9f7d8f300b6595120bf06ef5dea2"
+    },
+    {
+      "path": "detail/kruger_60.html",
+      "source": "https://stars.chromeexperiments.com/detail/kruger_60.html",
+      "bytes": 2954,
+      "sha256": "ca302ae8699170d96e73189598e254fb134e9d40348baefaea12d45ef2d9466d"
+    },
+    {
+      "path": "detail/fomalhaut.html",
+      "source": "https://stars.chromeexperiments.com/detail/fomalhaut.html",
+      "bytes": 3602,
+      "sha256": "94de6c651115b42186c8faf8e852bf4ce23e30d82f941974bcfe0cdb498745b8"
+    },
+    {
+      "path": "detail/scheat.html",
+      "source": "https://stars.chromeexperiments.com/detail/scheat.html",
+      "bytes": 4853,
+      "sha256": "11083f96fa78c73f52f8de5be8021c16c4a4f01295348fc448bdea5184b26d78"
+    },
+    {
+      "path": "detail/markab.html",
+      "source": "https://stars.chromeexperiments.com/detail/markab.html",
+      "bytes": 2024,
+      "sha256": "c8472fbf05218ae60efe6361499df56c99af7dcb3db0de6fe46d785b0bb32c01"
+    },
+    {
+      "path": "detail/lacaille_9352.html",
+      "source": "https://stars.chromeexperiments.com/detail/lacaille_9352.html",
+      "bytes": 1965,
+      "sha256": "4f2ab89a4089be979ba0e186cf1a189b12c1aef01a9cf015aa6e1d6bc7d72ada"
+    },
+    {
+      "path": "styles/font-0.ttf",
+      "source": "https://fonts.gstatic.com/s/lekton/v21/SZc43FDmLaWmWpBuWB3s.ttf",
+      "bytes": 20684,
+      "sha256": "25ea8ccb37746d77ce6d032fd14effb9ba233def499455f38a79694450788bce"
+    },
+    {
+      "path": "styles/font-1.ttf",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf",
+      "bytes": 48772,
+      "sha256": "d6189434e7dea65ff459984c65a48472fc000b14e4c5a1a2e500165f733765b3"
+    },
+    {
+      "path": "styles/font-2.ttf",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf",
+      "bytes": 47396,
+      "sha256": "76aed5c1cd113d023a0392348a923ac9d18923d7c20feb8373329e809952a6af"
+    },
+    {
+      "path": "styles/font-3.ttf",
+      "source": "https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf",
+      "bytes": 47112,
+      "sha256": "57172670b89b38f392f2d055f708e6cd9d4d59156948db3b9217e2665a9b441c"
+    },
+    {
+      "path": "detail/van_maanens_star.html",
+      "source": "https://stars.chromeexperiments.com/detail/van_maanens_star.html",
+      "bytes": 1438,
+      "sha256": "5697c5bba26f27afbeb328b82b7397f64c158300b878cc58a10def97c776f6c6"
+    },
+    {
+      "path": "detail/kapteyns_star.html",
+      "source": "https://stars.chromeexperiments.com/detail/kapteyns_star.html",
+      "bytes": 869,
+      "sha256": "5807ac7334cac73ffac6bb330a75754559458db8e9d93d0f33380828a2a4db7d"
+    },
+    {
+      "path": "detail/luytens_star.html",
+      "source": "https://stars.chromeexperiments.com/detail/luytens_star.html",
+      "bytes": 5506,
+      "sha256": "870604a870c3b268074bffbe87e7a975a4f3dc4ecde32700653e99a96c77971d"
+    },
+    {
+      "path": "detail/barnards_star.html",
+      "source": "https://stars.chromeexperiments.com/detail/barnards_star.html",
+      "bytes": 5459,
+      "sha256": "fd2a51f1afe575672bdc94ce04c6b12093825c2d2d78ccaf4f90ba0a30209340"
+    },
+    {
+      "path": "detail/about.html",
+      "source": "https://stars.chromeexperiments.com/detail/about.html",
+      "bytes": 2824,
+      "sha256": "d4ec31ed09c2586bc3bab09c8b14989a2cb0c3546eed44cdac760e0d48458375"
+    },
+    {
+      "path": "images/ce.png",
+      "source": "https://stars.chromeexperiments.com/images/ce.png",
+      "bytes": 5006,
+      "sha256": "f7f46e786a661acbe661fbccd316151f64acdd36ed127131fc7e4f0d870c4190"
+    }
+  ],
+  "missing": [],
+  "localAdaptations": [
+    "index.html: remove tracking/cookie scripts; local fonts and CSP; add local-bridge.js; background-only control hiding and disable layout startup CSS scaling; load Landing-only galaxy-twinkle.js",
+    "detail/rigel_kentaurus_a.html: pronunciation icon uses original local sound-on.svg; Wikimedia thumbnail returned 403",
+    "detail/barnards_star.html: pronunciation icon uses original local sound-on.svg; Wikimedia thumbnail returned 403",
+    "detail/arcturus.html: pronunciation icon uses original local sound-on.svg; Wikimedia thumbnail returned 403",
+    "detail/rigel_kentaurus_b.html: pronunciation icon uses original local sound-on.svg; Wikimedia thumbnail returned 403"
+  ]
+}

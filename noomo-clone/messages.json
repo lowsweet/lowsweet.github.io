@@ -1,0 +1,202 @@
+{
+  "messages": {
+    "zh-CN": {
+      "heroLead": "链接想象与现实",
+      "heroSky": "让创意成为作品",
+      "clickStart": "点击开始",
+      "tapExplore": "开始探索",
+      "scrollExplore": "向下探索",
+      "reimagine": "重塑凤凰",
+      "api": "API 开放平台",
+      "business": "商务合作",
+      "support": "联系客服",
+      "language": "简体中文",
+      "languageMenu": "选择语言",
+      "languageUnavailable": "暂未开放",
+      "home": "首页",
+      "menu": "菜单",
+      "start": "开始使用",
+      "create": "开始创作",
+      "galaxy": "银河版本",
+      "close": "返回晶体",
+      "uses": "可以用来",
+      "footerLead": "让下一次灵感，成为你的作品",
+      "chatTitle": "智能对话",
+      "chatCaption": "从想法到答案",
+      "imageTitle": "图像创作",
+      "imageCaption": "让想象成为画面",
+      "videoTitle": "视频生成",
+      "videoCaption": "让画面开始叙事",
+      "audioTitle": "语音合成",
+      "audioCaption": "让文字拥有声音",
+      "chatCopy": "与主流 AI 模型对话，整理思路、撰写内容，把问题变成下一步行动。",
+      "imageCopy": "用文字描述想象中的画面，生成图像，或在已有作品上继续修改。",
+      "videoCopy": "从一句描述或一张图片出发，生成视频，探索镜头、动作与故事。",
+      "audioCopy": "将文字转为自然语音，为作品选择合适的声音、语气与节奏。",
+      "chatUses": [
+        "写作与改写",
+        "思路梳理",
+        "知识问答"
+      ],
+      "imageUses": [
+        "概念设计",
+        "产品视觉",
+        "图像编辑"
+      ],
+      "videoUses": [
+        "短片创作",
+        "动态视觉",
+        "图像转视频"
+      ],
+      "audioUses": [
+        "视频配音",
+        "有声内容",
+        "多语言朗读"
+      ],
+      "loading": "正在唤醒想象",
+      "error": "进入创作的另一种方式。"
+    },
+    "en": {
+      "heroLead": "Connect your imagination",
+      "heroSky": "to the sky.",
+      "clickStart": "Click to start",
+      "tapExplore": "Tap to explore",
+      "scrollExplore": "Scroll to explore",
+      "reimagine": "Reimagine Phoenix",
+      "api": "API Platform",
+      "business": "Business",
+      "support": "Support",
+      "language": "English",
+      "languageMenu": "Choose language",
+      "languageUnavailable": "Coming soon",
+      "home": "Home",
+      "menu": "Menu",
+      "start": "Get started",
+      "create": "Start creating",
+      "galaxy": "Galaxy edition",
+      "close": "Back to crystals",
+      "uses": "Make it yours",
+      "footerLead": "Make your next idea real.",
+      "chatTitle": "AI conversations",
+      "chatCaption": "From ideas to answers",
+      "imageTitle": "Image creation",
+      "imageCaption": "Give imagination a shape",
+      "videoTitle": "Video generation",
+      "videoCaption": "Put your ideas in motion",
+      "audioTitle": "Voice synthesis",
+      "audioCaption": "Give your words a voice",
+      "chatCopy": "Talk with leading AI models to explore ideas, write content, and turn questions into a next step.",
+      "imageCopy": "Describe the image you imagine. Create it from words, or keep refining a work you already have.",
+      "videoCopy": "Start with a prompt or an image. Create a video and explore motion, camera angles, and stories.",
+      "audioCopy": "Turn text into natural speech. Find the voice, tone, and rhythm that fit your work.",
+      "chatUses": [
+        "Writing and editing",
+        "Exploring ideas",
+        "Questions and research"
+      ],
+      "imageUses": [
+        "Concept design",
+        "Product visuals",
+        "Image editing"
+      ],
+      "videoUses": [
+        "Short films",
+        "Motion visuals",
+        "Image to video"
+      ],
+      "audioUses": [
+        "Video voiceovers",
+        "Audio stories",
+        "Multilingual narration"
+      ],
+      "loading": "Awakening imagination",
+      "error": "Another way into your next creation."
+    }
+  },
+  "sceneHtml": {
+    "zh-CN": {
+      "opening": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-bird ic mb-20 inline-block\"></span><span class=\"relative z-2\">灵感，</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">从一个念头开始。</span></p>",
+      "guides": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-right\"><span class=\"relative z-2\">把脑海中的想法</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">化作可以看见、</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">听见、使用的</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">作品。</span></p>",
+      "phoenix": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-bird-2 rotate-180 ic mb-20 inline-block\"></span><span class=\"relative z-2\">一句话，可以成为</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">文字、画面、</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">影像与声音。</span></p>",
+      "inside": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-flower-white ic mb-20 inline-block\"></span><span class=\"relative z-2\">你的想法，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">值得被看见。</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">从第一句话，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">到完整作品，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">一步步，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">让想象成形。</span></p>",
+      "connected": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-center\"><span class=\"relative z-2\">让不同的能力，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">在同一处连接。</span></p>",
+      "sparkFire": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">从一点灵感，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">到完整的作品。</span></p>",
+      "final": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">让下一次灵感，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">成为你的作品</span></p>",
+      "featherIntro": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"text-icon-feather-white ic mb-20 inline-block\"></span><span class=\"relative z-2\">每个念头，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">都可成为创作的起点。</span></p>",
+      "principle0": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-left\"><span class=\"xs:text-sans-26 lg:text-sans-38\">从想法开始</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient\">写下你想完成的事。</span><br><span class=\"lg:lines-text-gradient\">对话、写作、图像与影像，</span><br><span class=\"lg:lines-text-gradient\">都从一句描述出发。</span></p>",
+      "principle1": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-right\"><span class=\"xs:text-sans-26 lg:text-sans-38\">自由切换模型</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient-left\">为每个任务选择合适的模型。</span><br><span class=\"lg:lines-text-gradient-left\">在同一个工作台中尝试，</span><br><span class=\"lg:lines-text-gradient-left\">找到更贴近想象的结果。</span></p>",
+      "principle2": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-left\"><span class=\"xs:text-sans-26 lg:text-sans-38\">让创作衔接</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient\">从文字到图像，再到视频。</span><br><span class=\"lg:lines-text-gradient\">把不同能力接入创作过程，</span><br><span class=\"lg:lines-text-gradient\">让一个想法继续展开。</span></p>",
+      "principle3": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-right\"><span class=\"xs:text-sans-26 lg:text-sans-38\">保留每一次尝试</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient-left\">保存作品与对话记录。</span><br><span class=\"lg:lines-text-gradient-left\">回到熟悉的起点，</span><br><span class=\"lg:lines-text-gradient-left\">继续修改，继续创作。</span></p>",
+      "crystals": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">四种能力，</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">让想象成形。</span></p>",
+      "narrative": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">想象</p>",
+      "light": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">看见。</p>",
+      "spirit": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">感受。</p>",
+      "sound": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">听见。</p>",
+      "footerActions": "<div class=\"linke-footer-buttons\"><a class=\"linke-source-cta linke-footer-start\" href=\"#linke-start\">开始使用</a><a class=\"linke-source-cta linke-footer-support\" href=\"#linke-support\">客服</a></div><div class=\"linke-footer-gift\"><a class=\"linke-source-cta linke-footer-offer\" href=\"#linke-start\">注册领取礼包</a><p class=\"linke-footer-offer-copy\">新人免费大礼包，AI 绘画 / 视频 / 对话免费开用</p></div>",
+      "footerLegal": "<div class=\"linke-footer-info\"><span>© CORTEXIQ PTE. LTD.</span><span>企业级 AI 接口服务平台</span><a class=\"linke-footer-email\" href=\"mailto:liaowei@ai6800.com\">邮箱：liaowei@ai6800.com</a></div><nav class=\"linke-footer-links\"><a href=\"#linke-support\">联系客服</a><a href=\"#linke-feedback\">举报与反馈</a><a href=\"#linke-about\">关于我们</a><a href=\"#linke-privacy\">隐私政策</a><a href=\"#linke-terms\">用户协议</a></nav><div class=\"linke-footer-payments\" role=\"group\" aria-label=\"支付方式\"><img src=\"/noomo-clone/images/payments/visa.svg\" alt=\"Visa\" width=\"38\" height=\"24\"><img src=\"/noomo-clone/images/payments/mastercard.svg\" alt=\"Mastercard\" width=\"38\" height=\"24\"><img src=\"/noomo-clone/images/payments/paypal.svg\" alt=\"PayPal\" width=\"38\" height=\"24\"></div>"
+    },
+    "en": {
+      "opening": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-bird ic mb-20 inline-block\"></span><span class=\"relative z-2\">Every idea begins</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">with a spark.</span></p>",
+      "guides": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-right\"><span class=\"relative z-2\">What if the ideas</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">in your mind</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">became something</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">you could create?</span></p>",
+      "phoenix": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-bird-2 rotate-180 ic mb-20 inline-block\"></span><span class=\"relative z-2\">One idea.</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">Words, images,</span><br><span class=\"text-line from-scale half ic linke-copy-line\"></span><span class=\"relative z-2\">motion, and sound.</span></p>",
+      "inside": "<p class=\"lg:text-sans-50 xs:text-sans-30 text-center\"><span class=\"text-icon-flower-white ic mb-20 inline-block\"></span><span class=\"relative z-2\">Your ideas</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">deserve to be seen.</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">From a first prompt</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">to a finished work,</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">one step</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">at a time.</span></p>",
+      "connected": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-center\"><span class=\"relative z-2\">Different abilities.</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">One connected workspace.</span></p>",
+      "sparkFire": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">From a spark</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">to a finished creation.</span></p>",
+      "final": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">Make your next</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">idea real.</span></p>",
+      "featherIntro": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"text-icon-feather-white ic mb-20 inline-block\"></span><span class=\"relative z-2\">Every idea</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">can be a beginning.</span></p>",
+      "principle0": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-left\"><span class=\"xs:text-sans-26 lg:text-sans-38\">Start with an idea</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient\">Describe what you want to make.</span><br><span class=\"lg:lines-text-gradient\">A conversation, a story,</span><br><span class=\"lg:lines-text-gradient\">an image, or a film.</span></p>",
+      "principle1": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-right\"><span class=\"xs:text-sans-26 lg:text-sans-38\">Choose your model</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient-left\">Find the right model for your task.</span><br><span class=\"lg:lines-text-gradient-left\">Try different approaches</span><br><span class=\"lg:lines-text-gradient-left\">in one familiar workspace.</span></p>",
+      "principle2": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-left\"><span class=\"xs:text-sans-26 lg:text-sans-38\">Connect your workflow</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient\">Move from words to images and video.</span><br><span class=\"lg:lines-text-gradient\">Bring different abilities together</span><br><span class=\"lg:lines-text-gradient\">and keep your idea moving.</span></p>",
+      "principle3": "<p class=\"xs:text-sans-18 lg:text-sans-26 text-right\"><span class=\"xs:text-sans-26 lg:text-sans-38\">Keep every iteration</span><br><span class=\"text-line from-scale dark xs:my-10 lg:my-20 ic linke-copy-line\"></span><span class=\"lg:lines-text-gradient-left\">Save your work and conversations.</span><br><span class=\"lg:lines-text-gradient-left\">Return to a familiar starting point.</span><br><span class=\"lg:lines-text-gradient-left\">Refine it. Make something new.</span></p>",
+      "crystals": "<p class=\"xs:text-sans-38 lg:text-sans-66 text-center\"><span class=\"relative z-2\">Four ways to</span><br><span class=\"text-line from-scale half ic dark linke-copy-line\"></span><span class=\"relative z-2\">bring ideas to life.</span></p>",
+      "narrative": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">imagination.</p>",
+      "light": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">See.</p>",
+      "spirit": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">Feel.</p>",
+      "sound": "<p class=\"xs:text-serif-100 whitespace-nowrap lg:text-serif-200 text-center gradient-text gradient-text-big\">Hear.</p>",
+      "footerActions": "<div class=\"linke-footer-buttons\"><a class=\"linke-source-cta linke-footer-start\" href=\"#linke-start\">Get started</a><a class=\"linke-source-cta linke-footer-support\" href=\"#linke-support\">Support</a></div><div class=\"linke-footer-gift\"><a class=\"linke-source-cta linke-footer-offer\" href=\"#linke-start\">Sign up for a welcome pack</a><p class=\"linke-footer-offer-copy\">Create with image, video, and chat tools for free.</p></div>",
+      "footerLegal": "<div class=\"linke-footer-info\"><span>© CORTEXIQ PTE. LTD.</span><span>AI APIs for teams and businesses</span><a class=\"linke-footer-email\" href=\"mailto:liaowei@ai6800.com\">Email: liaowei@ai6800.com</a></div><nav class=\"linke-footer-links\"><a href=\"#linke-support\">Contact support</a><a href=\"#linke-feedback\">Report & feedback</a><a href=\"#linke-about\">About us</a><a href=\"#linke-privacy\">Privacy policy</a><a href=\"#linke-terms\">Terms of use</a></nav><div class=\"linke-footer-payments\" role=\"group\" aria-label=\"Payment methods\"><img src=\"/noomo-clone/images/payments/visa.svg\" alt=\"Visa\" width=\"38\" height=\"24\"><img src=\"/noomo-clone/images/payments/mastercard.svg\" alt=\"Mastercard\" width=\"38\" height=\"24\"><img src=\"/noomo-clone/images/payments/paypal.svg\" alt=\"PayPal\" width=\"38\" height=\"24\"></div>"
+    }
+  },
+  "languages": [
+    {
+      "code": "zh-CN",
+      "label": "简体中文",
+      "enabled": true
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "enabled": true
+    },
+    {
+      "code": "zh-TW",
+      "label": "繁體中文",
+      "enabled": false
+    },
+    {
+      "code": "ja",
+      "label": "日本語",
+      "enabled": false
+    },
+    {
+      "code": "ko",
+      "label": "한국어",
+      "enabled": false
+    },
+    {
+      "code": "fr",
+      "label": "Français",
+      "enabled": false
+    },
+    {
+      "code": "de",
+      "label": "Deutsch",
+      "enabled": false
+    },
+    {
+      "code": "es",
+      "label": "Español",
+      "enabled": false
+    }
+  ]
+}
