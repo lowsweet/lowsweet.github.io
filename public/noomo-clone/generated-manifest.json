@@ -1,0 +1,472 @@
+{
+  "source": "https://storytelling.noomoagency.com/",
+  "enginePatched": true,
+  "contentPatched": true,
+  "assets": [
+    {
+      "path": "linke-language.css",
+      "bytes": 3677,
+      "sha256": "ebd858d3f5a5a1a7c5d943e1cf48b8c23e1403f0d41bdce604331d61c8c51fe0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1190,
+      "sha256": "9d3d18cc0ac1e2a2018448c0a40e67b5c54baa1ca6df6c6b37f94d6a599feeba"
+    },
+    {
+      "path": "poster.jpg",
+      "bytes": 36188,
+      "sha256": "f059a8d501920a25f2f669e6582a5947bbdd5e3e70bdf08418249a1382908556"
+    },
+    {
+      "path": "messages.json",
+      "bytes": 19697,
+      "sha256": "a6caf6a991ebac4a634b70f6c6fa942afa6aba0d796085a8995399f9605ba965"
+    },
+    {
+      "path": "fav.png",
+      "bytes": 710,
+      "sha256": "09fdad945e05382c83ed5d09f0691945fea1fc7d2374e3b8ed29207e200bee10"
+    },
+    {
+      "path": "linke-bridge.js",
+      "bytes": 40428,
+      "sha256": "26c170e5faef51f762a158f61fb294c03438732f3ddd6fbd30974cacde44ceb6"
+    },
+    {
+      "path": "linke-content.css",
+      "bytes": 10528,
+      "sha256": "d96a418197687ccdd90a8b9fd50bc8844e6d35e6e28411dc842211afd1b8811a"
+    },
+    {
+      "path": "textures/icon.png",
+      "bytes": 114,
+      "sha256": "6c81bcb6d784415ad44ddd289c9e2908cec5279b8ab45653e28d8ef1a3d1776c"
+    },
+    {
+      "path": "textures/404.jpg",
+      "bytes": 13062,
+      "sha256": "115afd1cfc274df244f91ce09fbe71ce9ac868cad72e47cb194948220a33f646"
+    },
+    {
+      "path": "textures/noises.jpg",
+      "bytes": 20857,
+      "sha256": "224d603977e5289f1ae626fa9b428f85658c0a5d8f7dbdb7cfb193759ab771c6"
+    },
+    {
+      "path": "textures/icen.jpg",
+      "bytes": 182423,
+      "sha256": "ac5115d5ac937ceacf21995b162cdc5096debf040f112b57745aa22c1af8ffc6"
+    },
+    {
+      "path": "textures/contact.jpg",
+      "bytes": 11368,
+      "sha256": "0849ff0818911cd119110403bb9fe233d58152e6c652c903d5881774b44e65b6"
+    },
+    {
+      "path": "textures/iced.jpg",
+      "bytes": 74029,
+      "sha256": "fd0939167adf46047ccc6cc438ef2c7d0fc8d373bc924aa1168ac8b12cc9fbdc"
+    },
+    {
+      "path": "textures/sprite.png",
+      "bytes": 699,
+      "sha256": "158f0a2bb73fcb5f599ef3edc3ba7f12d3b5b018ce5db92d7fbd8195beec73d2"
+    },
+    {
+      "path": "textures/mountains.png",
+      "bytes": 55420,
+      "sha256": "ff6ef3ecdc41444220c7fbbc839594584b4fab5c85702c8a0a9da8ff57faff72"
+    },
+    {
+      "path": "textures/ice.jpg",
+      "bytes": 82764,
+      "sha256": "bb91e5bf542952b1ece59c479b6c1f077a9f36064fed730f02decf62cf5b664a"
+    },
+    {
+      "path": "textures/waves.jpg",
+      "bytes": 156890,
+      "sha256": "e57755007672a715bfb9ae6a81dacf729892bed7aceb4f2817fdae50e7915079"
+    },
+    {
+      "path": "textures/linke-logo.png",
+      "bytes": 9313,
+      "sha256": "21f88e23aa9de491d78f4692a5ec7100ae4c01b093c4102f7a2e8beec104362b"
+    },
+    {
+      "path": "textures/wooden_studio_19_1k.hdr",
+      "bytes": 1517608,
+      "sha256": "d35c2f2b051d66310625d7459a54ade51e5b742c0b7a1c2491a1d7832a0f2a9f"
+    },
+    {
+      "path": "textures/ftrail.jpg",
+      "bytes": 1886,
+      "sha256": "887ffaba08581036f9c85e731b12df4bb59e15ab0b19fd93ec406846fee03d8f"
+    },
+    {
+      "path": "textures/LDR_RG01_0.png",
+      "bytes": 17354,
+      "sha256": "d2651bc877facb2ed36bee6f3cbbc84affc69fcb5d4846166ef25401207b3e60"
+    },
+    {
+      "path": "textures/crystals/4.jpg",
+      "bytes": 63782,
+      "sha256": "23c9a391d582c5394eb2ab0914fb240a4172626b72dbf7082ed433dd12c119d5"
+    },
+    {
+      "path": "textures/crystals/5.jpg",
+      "bytes": 63514,
+      "sha256": "e4152afdcf84318da9d1ad489f73dfba0b8848b3a12a76dfaddcbe27ef910420"
+    },
+    {
+      "path": "textures/crystals/6.jpg",
+      "bytes": 70426,
+      "sha256": "8792f0ac9ac613eb6045d730047ab189cb3736c7ce2131d4b3a3abe28e13c631"
+    },
+    {
+      "path": "textures/crystals/2.jpg",
+      "bytes": 111119,
+      "sha256": "4c62154b837c81214efee00848a9698be9adcf9b5153babf145e24783668d9e2"
+    },
+    {
+      "path": "textures/crystals/3.jpg",
+      "bytes": 71145,
+      "sha256": "9ebece5b2793a5d6bf302ce0d10d7e2f51bc71fa429ae8f6f1eeaba8bc47b872"
+    },
+    {
+      "path": "textures/crystals/1.jpg",
+      "bytes": 65840,
+      "sha256": "d4c8c1a197ba58c3c2975e8cd2723eaf2732e56a38f981f73a782c7ccf643212"
+    },
+    {
+      "path": "textures/crystals/0.jpg",
+      "bytes": 87266,
+      "sha256": "9f89ed8927b5c5a0dc7834aadefe5f375c00c7cfcc9b0eaeebbc427a2d8102c6"
+    },
+    {
+      "path": "images/loader.gif",
+      "bytes": 5071,
+      "sha256": "2d355d0c21d0474489693c4952ac073dbffa56e99675d6994d9a5ac3013dd5db"
+    },
+    {
+      "path": "images/menu_back.jpg",
+      "bytes": 192078,
+      "sha256": "fc73737b323992209462b209522041327cffaccec5b3a120885392439c9e3e61"
+    },
+    {
+      "path": "images/svg/newStar.svg",
+      "bytes": 509,
+      "sha256": "c721ede4a78496c8f19ba51397d55460cbe7f7c1f51860e75d94030dab40e264"
+    },
+    {
+      "path": "images/svg/buttonStar.svg",
+      "bytes": 792,
+      "sha256": "cfc265d18758171f187be5e0c9336c046d553205ef8195aa906e213ae4709c42"
+    },
+    {
+      "path": "images/svg/backArrowNew.svg",
+      "bytes": 1607,
+      "sha256": "705d92e215b93090655f968adc0b30b47fc0db45dc20da410a3c494d8bfe959d"
+    },
+    {
+      "path": "images/svg/logoSimple.svg",
+      "bytes": 677,
+      "sha256": "3b09102b739988ed0e6298f05830afeb843dc4a218ee9334cf04b68e462da99c"
+    },
+    {
+      "path": "images/svg/tagsStar.svg",
+      "bytes": 807,
+      "sha256": "a5145ab34394f5096ab4bd2a08651b3aff90a4a7deabb99fbf8e03f5c5930b50"
+    },
+    {
+      "path": "images/svg/close.svg",
+      "bytes": 389,
+      "sha256": "ed9b343d2befc2c14b9fb264097bd3ece968d56d34f74ceb2f50e69ec5b19a6b"
+    },
+    {
+      "path": "images/svg/linke-logo.svg",
+      "bytes": 764,
+      "sha256": "3bdc7fcfff44e3da070069e1738b2624d44e07eaed303dcedbe76755dc93cf6e"
+    },
+    {
+      "path": "images/svg/soundBorder.svg",
+      "bytes": 515,
+      "sha256": "e39b0147b0d9ec5e913a39246fc5e69b6cf446758ddd05f0d1d5c0de120a15ee"
+    },
+    {
+      "path": "images/svg/logo2.svg",
+      "bytes": 17253,
+      "sha256": "0545152050b836295a4bfd34e024bb36a8535f18163f0b6f01637a680380815b"
+    },
+    {
+      "path": "images/svg/logo.svg",
+      "bytes": 17733,
+      "sha256": "edc615a6e138e5ce29caaa76239e97876c9415b924eb85cbb3c6fec486f2431d"
+    },
+    {
+      "path": "images/svg/fromError.svg",
+      "bytes": 758,
+      "sha256": "c705b63507c98c0af6681c3bd3d596c486abcd556b35a0ad2b9d6c410bd3d243"
+    },
+    {
+      "path": "images/payments/visa.svg",
+      "bytes": 2690,
+      "sha256": "3e1cf9528b48a31b1fcc8a1971cfc6886f10574b7630b96c00ae5b5504477114"
+    },
+    {
+      "path": "images/payments/SOURCES.md",
+      "bytes": 400,
+      "sha256": "1f891b58d84a297e929124a9ec115821a677248015d5870941f1a217ea56730e"
+    },
+    {
+      "path": "images/payments/paypal.svg",
+      "bytes": 732,
+      "sha256": "cb6bf44474bc2570345d607c21329ba5271ba16d19606212692c2f55d3cd96fd"
+    },
+    {
+      "path": "images/payments/mastercard.svg",
+      "bytes": 1056,
+      "sha256": "75b13b6d5d3b813cc9772a7a1ca314edbd4ac58fc5cff10095512f993fcf3c97"
+    },
+    {
+      "path": "images/payments/LICENSE.txt",
+      "bytes": 1051,
+      "sha256": "b62f0f10f597617003db5f5a4ffbe439a7516a2e2334ecd26e72a7d93e6d95ec"
+    },
+    {
+      "path": "images/text_icons/pixelBird.png",
+      "bytes": 1261,
+      "sha256": "dc6ea645280ffe648d20f726bd9f9fbeb1cd9ee361802e033b53167840941251"
+    },
+    {
+      "path": "models/crystal3.glb",
+      "bytes": 48332,
+      "sha256": "b4772f260f56c11e12718596220c907dcb3dbe638eb4546aba73c223a314f2f4"
+    },
+    {
+      "path": "models/crystal2.glb",
+      "bytes": 60788,
+      "sha256": "944799a98fdb941c6b36e248186e9871ddf953d2703e0216268c6158b4b66903"
+    },
+    {
+      "path": "models/crystal0.glb",
+      "bytes": 62204,
+      "sha256": "291b742fb377218e18db2cd850c909609804319eb5efedae326dd12acc3d50bf"
+    },
+    {
+      "path": "models/crystal1.glb",
+      "bytes": 57272,
+      "sha256": "919d6fd13cb47a2c76cda964214eb47765c660308cee3d2919d778d3da5252da"
+    },
+    {
+      "path": "models/crystal5.glb",
+      "bytes": 57084,
+      "sha256": "773195de5ba2a07de7926ca48fdb6ed2a9a3fbf0602b7d20b3ab13058fe82558"
+    },
+    {
+      "path": "models/crystal4.glb",
+      "bytes": 55228,
+      "sha256": "ee070be6c1414ab8b8449fcba5f1dd22212de0b1fa72fd11f926a3156567a285"
+    },
+    {
+      "path": "models/crystal6.glb",
+      "bytes": 40564,
+      "sha256": "d95db12a06327a80792a2932e594e473a9df46e288c29ea9f84cef0ee06d5a53"
+    },
+    {
+      "path": "models/v20.glb",
+      "bytes": 4354860,
+      "sha256": "15937ca06ea0003b5d1ef9d649d93de15fbc20faaf75e1467706ff9ce6e28764"
+    },
+    {
+      "path": "models/feather.glb",
+      "bytes": 6652,
+      "sha256": "82ce3ea662c906b4003e107c400136464575816808088dafe10c93e5f012f03c"
+    },
+    {
+      "path": "timelines/cam-mob.glb",
+      "bytes": 219844,
+      "sha256": "1d37f6d7844087755b655ff64cb082d60f9d1c159f58e52962dfaf0359e2be84"
+    },
+    {
+      "path": "timelines/dev.glb",
+      "bytes": 164400,
+      "sha256": "e5153a440ce21952872686f1e1dcbfbffeb6cdc40742516768cd60998e84a330"
+    },
+    {
+      "path": "timelines/cam.glb",
+      "bytes": 235160,
+      "sha256": "e0e9ce478037546af76732ed870d65aec3c16781acf93047a5822733201c66dd"
+    },
+    {
+      "path": "libs/draco/draco_decoder.js",
+      "bytes": 719410,
+      "sha256": "30e4d486fa020737af10e3c56197693e5b904bdc05b8bfa5d7b06751dec6da04"
+    },
+    {
+      "path": "libs/draco/draco_decoder.wasm",
+      "bytes": 285747,
+      "sha256": "c55a594e8ffd18426d36b27fea9618af3df5e173640a3e56d46f09d76f0574f2"
+    },
+    {
+      "path": "libs/draco/draco_wasm_wrapper.js",
+      "bytes": 58763,
+      "sha256": "e8049906ef3f8f75d3456c22a3f31bfdfe5b5b5bd09ccdec613b9e9a49d554d8"
+    },
+    {
+      "path": "libs/basis/basis_transcoder.wasm",
+      "bytes": 527333,
+      "sha256": "6cf17dc889352c42e9acf8897107978d127005fe3386c36a0e3845e27967630a"
+    },
+    {
+      "path": "libs/basis/basis_transcoder.js",
+      "bytes": 57529,
+      "sha256": "8478b5b6d6b74e7d3082b89f6417321d8d1dc0307f2b30d4484bb11b441696a1"
+    },
+    {
+      "path": "audio/BG_music_ST.mp3",
+      "bytes": 1686873,
+      "sha256": "c840d48310d44161dbf342530e9dfbc38c53fbf537e0ca14fde5e612dfd7163c"
+    },
+    {
+      "path": "audio/hover5.mp3",
+      "bytes": 21620,
+      "sha256": "d1051fbf1fb4ec8e8c543dd5c2ddf385a8addfcfc8bd13f76d7187e288d2484f"
+    },
+    {
+      "path": "audio/hover4.mp3",
+      "bytes": 21620,
+      "sha256": "156bc6e9dd670e264868adf5d036ebfc42ebc6e80b2b0ab62fa6f8cfe9c82343"
+    },
+    {
+      "path": "audio/hover1.mp3",
+      "bytes": 21620,
+      "sha256": "f1f01070b161e930bb15c92bb1b52b9cffe63670ffddd5ced255f715cebb2386"
+    },
+    {
+      "path": "audio/hover3.mp3",
+      "bytes": 21620,
+      "sha256": "f97b9a02b01c24787cd5906c363ff4da00cae2f9045f4d410fb4975b6cde275b"
+    },
+    {
+      "path": "audio/hover2.mp3",
+      "bytes": 21620,
+      "sha256": "423cf889bcc1190b3b71f53f84e5aba5fb87330b5effe1e1e5a75272d72246c0"
+    },
+    {
+      "path": "audio/ReleaseSpirit.mp3",
+      "bytes": 41844,
+      "sha256": "43cd13cc4df4a0f09f74099584b42a80e7a7a7a0b01ad0ce1b83c46977cd7a25"
+    },
+    {
+      "path": "_nuxt/entry.BEbxiOYI.css",
+      "bytes": 54112,
+      "sha256": "521ae1966e98ceecc939cfbaff6bdf2c9a20d0539f8be7cf3386bee95105c2ce"
+    },
+    {
+      "path": "_nuxt/TTNeorisTrialRegular.CykOY4gR.ttf",
+      "bytes": 251756,
+      "sha256": "409150dd6b4f0dd2e999d20561b10a8d72fec8cae201518e7c91d10ef5ef314f"
+    },
+    {
+      "path": "_nuxt/CoNJmAYZ.js",
+      "bytes": 102,
+      "sha256": "8e9c3bc38dde7079340c458eb6f356693402a74deaa99d9f7ec7d40367a9299a"
+    },
+    {
+      "path": "_nuxt/CbdjwYMp.js",
+      "bytes": 1633423,
+      "sha256": "13afe7f7d47112b0159a4f6928eb9ed222a53db37ffe81e91608470cc9bfd3fd"
+    },
+    {
+      "path": "_nuxt/B1pKjyE0.js",
+      "bytes": 20514,
+      "sha256": "68a0385fc11ec1ba797bf224655f291a0f6e8cf848c8b5e93b1b324f8d5e0f0d"
+    },
+    {
+      "path": "_nuxt/FZFS71Nt.js",
+      "bytes": 30265,
+      "sha256": "b69975f1be8876ad4e30d63d9bede6d7db3d3be358871b21253104424aae4b69"
+    },
+    {
+      "path": "_nuxt/fonnts.com-theseasons-it.CUCq9ttA.otf",
+      "bytes": 19048,
+      "sha256": "99b9ba33339b2d814c0a9640722052c178649e8404d65f421bb5a66145edc96e"
+    },
+    {
+      "path": "_nuxt/N9wcHCtb.js",
+      "bytes": 3578,
+      "sha256": "d24662aa2fb7a7c369bfd09c68b17fb65c5c00687b5bcf361e5e3ee8eb4adfb1"
+    },
+    {
+      "path": "_nuxt/index.CeGRoErV.css",
+      "bytes": 3680,
+      "sha256": "7e63d48699b8cbaf14b7130bbc60cba6393ba9c2c16b31ef1b7cd891b0b00914"
+    },
+    {
+      "path": "_nuxt/_slug_.DjiABMH0.css",
+      "bytes": 3925,
+      "sha256": "0752e369c43594b425c29bc4c456ef11e72a83b740bac57eebd25a5b62a749ce"
+    },
+    {
+      "path": "_nuxt/builds/latest.json",
+      "bytes": 71,
+      "sha256": "57036571e793a3125d0f7c8b59ef1c70716d9eb7650a65de9030dd6bd632081d"
+    },
+    {
+      "path": "_nuxt/builds/meta/78d24864-e7ac-4700-9d87-77655fc8a92f.json",
+      "bytes": 139,
+      "sha256": "63f043e9e7686174b4cf13f8b1216a3ec72251ce3aa56b39fb3bacbdac05ba7b"
+    },
+    {
+      "path": "fonts/noto-sans-sc-medium.woff2",
+      "bytes": 78400,
+      "sha256": "fe8acdb4a21b841aab70f49bb42575f92dec2a33ec35ffc7b3df57243e6307bb"
+    },
+    {
+      "path": "fonts/noto-sans-sc-bold.woff2.source.json",
+      "bytes": 5134,
+      "sha256": "07cc4869a5a2a01de3c60a64e7307eb143e51b99adbae766f814170ab6894b19"
+    },
+    {
+      "path": "fonts/noto-serif-sc.woff2",
+      "bytes": 102964,
+      "sha256": "8961005ef885e62d87ca11cb7e862b6a0241e22e239934e1af8e752739cc6de8"
+    },
+    {
+      "path": "fonts/noto-sans-sc.woff2.source.json",
+      "bytes": 4986,
+      "sha256": "6fb39acdc561fa7abaddf89fbd4ec77aabac6ac95277ed4940fd8618b9982a95"
+    },
+    {
+      "path": "fonts/noto-serif-OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "fonts/noto-serif-sc.woff2.source.json",
+      "bytes": 4989,
+      "sha256": "d6854f7da6b913a7b96c0af776eb5c372c2c807320cbe4e6854de8eeac9c8130"
+    },
+    {
+      "path": "fonts/noto-sans-sc.woff2",
+      "bytes": 77660,
+      "sha256": "5851fcea5e2f05f21cebd654a454939536d5d76c3afc42656d5e19cedfc33111"
+    },
+    {
+      "path": "fonts/noto-sans-OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "fonts/noto-sans-sc-bold.woff2",
+      "bytes": 78384,
+      "sha256": "6f1a1d87e74fb49c00b5a7f6617b6ca9c8ee3fd21548fe590361a107c2ac323f"
+    },
+    {
+      "path": "fonts/noto-sans-sc-medium.woff2.source.json",
+      "bytes": 5134,
+      "sha256": "a8b1fc95c8745091060c660f4b205d283b0f5391c805bbc9eb04c7a03298bdc2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+/* Reveal only after the galaxy reports its final entrance pose. */
+.linkeai-home[data-entrance="pending"] :is(.landing-entrance-menu,.landing-entrance-copy,.landing-entrance-actions){opacity:0;visibility:hidden;pointer-events:none}
+.linkeai-home[data-entrance="ready"] .landing-entrance-menu{animation:landing-menu-enter 420ms cubic-bezier(.22,1,.36,1) both}
+.linkeai-home[data-entrance="ready"] .landing-entrance-copy{animation:landing-copy-enter 560ms cubic-bezier(.22,1,.36,1) 240ms both}
+.linkeai-home[data-entrance="ready"] .landing-entrance-actions{animation:landing-action-enter 420ms cubic-bezier(.22,1,.36,1) 700ms both}
+@keyframes landing-menu-enter{from{opacity:0;visibility:hidden;transform:translateY(-6px)}to{opacity:1;visibility:visible;transform:none}}
+@keyframes landing-copy-enter{from{opacity:0;visibility:hidden;transform:translateY(12px)}to{opacity:1;visibility:visible;transform:none}}
+@keyframes landing-action-enter{from{opacity:0;visibility:hidden;transform:translateY(6px)}to{opacity:1;visibility:visible;transform:none}}
+@media(prefers-reduced-motion:reduce){
+  .linkeai-home :is(.landing-entrance-menu,.landing-entrance-copy,.landing-entrance-actions){animation:none!important;opacity:1!important;visibility:visible!important;transform:none!important;pointer-events:auto!important}
+}

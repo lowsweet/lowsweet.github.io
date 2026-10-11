@@ -1,0 +1,441 @@
+{
+  "description": "Official brand graphics used only in the LinkeAI workspace model list and heading. Product symbols take precedence; vendor fallbacks cover models without an available independent symbol.",
+  "assets": [
+    {
+      "id": "openai",
+      "localPath": "/model-brand-icons/openai.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/openai/openai-agents-python/main/docs/assets/logo.svg",
+      "referenceUrl": "https://github.com/openai/openai-agents-python/blob/main/docs/assets/logo.svg",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "monochrome",
+      "bytes": 2961,
+      "sha256": "b94ea61d860fae6f82f43571f36f17111fcf5d348e8e9cc22ae4b441c7560011"
+    },
+    {
+      "id": "claude",
+      "localPath": "/model-brand-icons/claude.svg",
+      "sourceUrl": "https://claude.com/",
+      "referenceUrl": "https://claude.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Isolated the independently colored Claude symbol path (#D97757) from the official combined wordmark; path and official fill unchanged",
+      "displayMode": "image",
+      "bytes": 1967,
+      "sha256": "c9480bbf5e325cf4ac13f3eed63d6fc9ffbc16c93bdaedf8c083d99e10371272"
+    },
+    {
+      "id": "gemini",
+      "localPath": "/model-brand-icons/gemini.png",
+      "sourceUrl": "https://www.gstatic.com/lamda/images/gemini_sparkle_4g_512_lt_f94943af3be039176192d.png",
+      "referenceUrl": "https://gemini.google.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 61823,
+      "sha256": "5e7cfecaa53f4f65a313fe89b0f389548126544a78fad8489510c70ae641a4a1"
+    },
+    {
+      "id": "qwen",
+      "localPath": "/model-brand-icons/qwen.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/QwenLM/Qwen-MM-Plugins/main/src/capabilities/video-edit/skill/assets/images/qwen-icon.svg",
+      "referenceUrl": "https://github.com/QwenLM/Qwen-MM-Plugins/blob/main/src/capabilities/video-edit/skill/assets/images/qwen-icon.svg",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 1509,
+      "sha256": "5bd37a2a98f32c73b133d64abe10962141a9555905c8e1d9b826e0b18d9e4d5e"
+    },
+    {
+      "id": "grok",
+      "localPath": "/model-brand-icons/grok.svg",
+      "sourceUrl": "https://grok.com/images/favicon.svg",
+      "referenceUrl": "https://grok.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 9758,
+      "sha256": "c3db0dfaf760b702b8490c6cbefe07fd8bfe00db43cae6a0acccf768f44d6179"
+    },
+    {
+      "id": "glm",
+      "localPath": "/model-brand-icons/glm.svg",
+      "sourceUrl": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+      "referenceUrl": "https://chat.z.ai/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 11037,
+      "sha256": "07a45e8e35b0b631ed2c68cd1cb041f9721b1ceeb0bd0e34f1459b0304a741c7"
+    },
+    {
+      "id": "bfl",
+      "localPath": "/model-brand-icons/bfl-black.svg",
+      "sourceUrl": "https://bfl.ai/brand/symbol-black.svg",
+      "referenceUrl": "https://bfl.ai/brand",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 542,
+      "sha256": "441ccf70c7312b62746a0cb4767bd489cb193b90cbded2ec40a57e77e9aa817c"
+    },
+    {
+      "id": "bfl-dark",
+      "localPath": "/model-brand-icons/bfl-white.svg",
+      "sourceUrl": "https://bfl.ai/brand/symbol-white.svg",
+      "referenceUrl": "https://bfl.ai/brand",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 614,
+      "sha256": "53f1a76c802721f4df894cb0c88a5242d0111d597318732a6607f8257e076ca9"
+    },
+    {
+      "id": "kling",
+      "localPath": "/model-brand-icons/kling.png",
+      "sourceUrl": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-homepage-aio/logo-180x180.png",
+      "referenceUrl": "https://klingai.com/global/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 3766,
+      "sha256": "6cb6f7857be8c718a6d6768da67389e169abdacbe5402933378a19a812da9995"
+    },
+    {
+      "id": "hailuo",
+      "localPath": "/model-brand-icons/hailuo.png",
+      "sourceUrl": "https://cdn.hailuoai.video/open-hailuo-video-web/public_assets/favicon.png",
+      "referenceUrl": "https://hailuoai.video/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 3277,
+      "sha256": "457a9656ca95bd4b35278b0dbd82210bc6ad2548698e542a6138fca8a7deec8f"
+    },
+    {
+      "id": "suno",
+      "localPath": "/model-brand-icons/suno.png",
+      "sourceUrl": "https://cdn-o.suno.com/favicon-512x512.png",
+      "referenceUrl": "https://suno.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 230833,
+      "sha256": "8c7be49db4624961bbf8ca829511925ebb38ea62d2f0685977ee3419e9cd6590"
+    },
+    {
+      "id": "elevenlabs",
+      "localPath": "/model-brand-icons/elevenlabs.svg",
+      "sourceUrl": "https://elevenlabs.io/icon.svg?c23f5371fdd26632",
+      "referenceUrl": "https://elevenlabs.io/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 404,
+      "sha256": "a8ccade64d9d38696c6f47a17ad1eb6d941d687bea0adc7af9b2ccce0e26c29a"
+    },
+    {
+      "id": "deepseek",
+      "localPath": "/model-brand-icons/deepseek.svg",
+      "sourceUrl": "https://fe-static.deepseek.com/chat/favicon.svg",
+      "referenceUrl": "https://chat.deepseek.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 3642,
+      "sha256": "90d7e400ca261d28dfb7982bfade335912b3a27a620faee9a787f8a52164fd43"
+    },
+    {
+      "id": "google",
+      "localPath": "/model-brand-icons/google.png",
+      "sourceUrl": "https://www.gstatic.com/images/branding/product/2x/googleg_96dp.png",
+      "referenceUrl": "https://about.google/brand-resource-center/logos-list/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 4812,
+      "sha256": "d9ad8ab348dcf98cdf293f4b6ea8f558bf760298368bfa81e5468cf52b8803cd"
+    },
+    {
+      "id": "wan",
+      "localPath": "/model-brand-icons/wan.png",
+      "sourceUrl": "https://g.alicdn.com/sail-web/wan-static-resources/0.0.30/images/favicon.ico",
+      "referenceUrl": "https://wan.video/",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "image",
+      "bytes": 4861,
+      "sha256": "9dda78d28bed40ccabb3d44e283d101b25d7b1bbe4817547f23b35fb2139ef90"
+    },
+    {
+      "id": "midjourney",
+      "localPath": "/model-brand-icons/midjourney.svg",
+      "sourceUrl": "https://docs.midjourney.com/hc/theming_assets/01K1K3SHJHG4BTD9YK9VH9G86N",
+      "referenceUrl": "https://docs.midjourney.com/hc/en-us/articles/32084281102349-Midjourney-Trademark-Policy",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official asset",
+      "displayMode": "monochrome",
+      "bytes": 2242,
+      "sha256": "b4da03d0b4a572a2aa364d37a1bcf22ae0af50e0c79a0996f628d0f8475bea94"
+    },
+    {
+      "id": "recraft",
+      "localPath": "/model-brand-icons/recraft.svg",
+      "sourceUrl": "https://www.recraft.ai/",
+      "referenceUrl": "https://www.recraft.ai/",
+      "retrievedAt": "2026-10-12",
+      "method": "Decoded the standalone SVG data URI from the official header; paths and fill unchanged",
+      "displayMode": "monochrome",
+      "bytes": 677,
+      "sha256": "e16c0a878e2bb575aef76bc7badca59421276b9547a4881010d573e7b3f73425"
+    },
+    {
+      "id": "meta",
+      "localPath": "/model-brand-icons/meta.svg",
+      "sourceUrl": "https://dev.meta.ai/",
+      "referenceUrl": "https://dev.meta.ai/",
+      "retrievedAt": "2026-10-12",
+      "method": "Isolated the infinity-symbol group and its gradient/clip definitions from the official combined wordmark; paths, gradients and proportions unchanged",
+      "displayMode": "image",
+      "bytes": 2563,
+      "sha256": "260662dd17240e80da9086a6071f1496e2c950833100b687d64b13d450fe06c2"
+    },
+    {
+      "id": "alibaba-cloud",
+      "localPath": "/model-brand-icons/alibaba-cloud.svg",
+      "sourceUrl": "https://www.alibabacloud.com/en?_p_lc=1",
+      "referenceUrl": "https://www.alibabacloud.com/",
+      "retrievedAt": "2026-10-12",
+      "method": "Isolated the three cloud-symbol nodes from the official combined wordmark; paths, orange fill and proportions unchanged",
+      "displayMode": "image",
+      "bytes": 501,
+      "sha256": "409a42ae70f53156b79f7542222812e7f7024f6af53fcf98c247f49d3bb1de98"
+    },
+    {
+      "id": "runway",
+      "localPath": "/model-brand-icons/runway-black.svg",
+      "sourceUrl": "https://runway.com/assets/Runway-Brand-Guidelines.zip",
+      "referenceUrl": "https://runway.com/brand-guidelines",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official symbol extracted from the brand download ZIP",
+      "displayMode": "image",
+      "bytes": 1126,
+      "sha256": "46ff33ce0686a75b26d7a1588b49fe4d4266fc279f252abba4f1050938f7ddd0"
+    },
+    {
+      "id": "runway-dark",
+      "localPath": "/model-brand-icons/runway-white.svg",
+      "sourceUrl": "https://runway.com/assets/Runway-Brand-Guidelines.zip",
+      "referenceUrl": "https://runway.com/brand-guidelines",
+      "retrievedAt": "2026-10-12",
+      "method": "Unmodified official symbol extracted from the brand download ZIP",
+      "displayMode": "image",
+      "bytes": 1126,
+      "sha256": "18571ca74061ee66f981fd80d83fb168b21ffd046a5992c8a5c6a9d39262c54f"
+    }
+  ],
+  "modelMappings": [
+    {
+      "name": "GPT-4.1",
+      "vendor": "OpenAI",
+      "kind": "chat",
+      "brand": "openai",
+      "localPath": "/model-brand-icons/openai.svg",
+      "darkPath": "/model-brand-icons/openai.svg"
+    },
+    {
+      "name": "Claude Sonnet 4.5",
+      "vendor": "Anthropic",
+      "kind": "chat",
+      "brand": "claude",
+      "localPath": "/model-brand-icons/claude.svg",
+      "darkPath": "/model-brand-icons/claude.svg"
+    },
+    {
+      "name": "Gemini 2.5 Pro",
+      "vendor": "Google",
+      "kind": "chat",
+      "brand": "gemini",
+      "localPath": "/model-brand-icons/gemini.png",
+      "darkPath": "/model-brand-icons/gemini.png"
+    },
+    {
+      "name": "DeepSeek V3.2",
+      "vendor": "DeepSeek",
+      "kind": "chat",
+      "brand": "deepseek",
+      "localPath": "/model-brand-icons/deepseek.svg",
+      "darkPath": "/model-brand-icons/deepseek.svg"
+    },
+    {
+      "name": "Qwen3",
+      "vendor": "Alibaba",
+      "kind": "chat",
+      "brand": "qwen",
+      "localPath": "/model-brand-icons/qwen.svg",
+      "darkPath": "/model-brand-icons/qwen.svg"
+    },
+    {
+      "name": "Grok 4.1",
+      "vendor": "xAI",
+      "kind": "chat",
+      "brand": "grok",
+      "localPath": "/model-brand-icons/grok.svg",
+      "darkPath": "/model-brand-icons/grok.svg"
+    },
+    {
+      "name": "GLM 4.6",
+      "vendor": "Zhipu",
+      "kind": "chat",
+      "brand": "glm",
+      "localPath": "/model-brand-icons/glm.svg",
+      "darkPath": "/model-brand-icons/glm.svg"
+    },
+    {
+      "name": "Llama 4",
+      "vendor": "Meta",
+      "kind": "chat",
+      "brand": "meta",
+      "localPath": "/model-brand-icons/meta.svg",
+      "darkPath": "/model-brand-icons/meta.svg"
+    },
+    {
+      "name": "GPT Image",
+      "vendor": "OpenAI",
+      "kind": "image",
+      "brand": "openai",
+      "localPath": "/model-brand-icons/openai.svg",
+      "darkPath": "/model-brand-icons/openai.svg"
+    },
+    {
+      "name": "Flux 2",
+      "vendor": "Black Forest Labs",
+      "kind": "image",
+      "brand": "bfl",
+      "localPath": "/model-brand-icons/bfl-black.svg",
+      "darkPath": "/model-brand-icons/bfl-white.svg"
+    },
+    {
+      "name": "Midjourney",
+      "vendor": "Midjourney",
+      "kind": "image",
+      "brand": "midjourney",
+      "localPath": "/model-brand-icons/midjourney.svg",
+      "darkPath": "/model-brand-icons/midjourney.svg"
+    },
+    {
+      "name": "Imagen 4",
+      "vendor": "Google",
+      "kind": "image",
+      "brand": "google",
+      "localPath": "/model-brand-icons/google.png",
+      "darkPath": "/model-brand-icons/google.png"
+    },
+    {
+      "name": "万相 2.5",
+      "vendor": "Alibaba",
+      "kind": "image",
+      "brand": "wan",
+      "localPath": "/model-brand-icons/wan.png",
+      "darkPath": "/model-brand-icons/wan.png"
+    },
+    {
+      "name": "Recraft V3",
+      "vendor": "Recraft",
+      "kind": "image",
+      "brand": "recraft",
+      "localPath": "/model-brand-icons/recraft.svg",
+      "darkPath": "/model-brand-icons/recraft.svg"
+    },
+    {
+      "name": "Sora 2",
+      "vendor": "OpenAI",
+      "kind": "video",
+      "brand": "openai",
+      "localPath": "/model-brand-icons/openai.svg",
+      "darkPath": "/model-brand-icons/openai.svg"
+    },
+    {
+      "name": "Veo 3",
+      "vendor": "Google",
+      "kind": "video",
+      "brand": "google",
+      "localPath": "/model-brand-icons/google.png",
+      "darkPath": "/model-brand-icons/google.png"
+    },
+    {
+      "name": "可灵 2.6",
+      "vendor": "Kuaishou",
+      "kind": "video",
+      "brand": "kling",
+      "localPath": "/model-brand-icons/kling.png",
+      "darkPath": "/model-brand-icons/kling.png"
+    },
+    {
+      "name": "Runway Gen-4",
+      "vendor": "Runway",
+      "kind": "video",
+      "brand": "runway",
+      "localPath": "/model-brand-icons/runway-black.svg",
+      "darkPath": "/model-brand-icons/runway-white.svg"
+    },
+    {
+      "name": "海螺 2.3",
+      "vendor": "MiniMax",
+      "kind": "video",
+      "brand": "hailuo",
+      "localPath": "/model-brand-icons/hailuo.png",
+      "darkPath": "/model-brand-icons/hailuo.png"
+    },
+    {
+      "name": "万相视频",
+      "vendor": "Alibaba",
+      "kind": "video",
+      "brand": "wan",
+      "localPath": "/model-brand-icons/wan.png",
+      "darkPath": "/model-brand-icons/wan.png"
+    },
+    {
+      "name": "Suno V5",
+      "vendor": "Suno",
+      "kind": "audio",
+      "brand": "suno",
+      "localPath": "/model-brand-icons/suno.png",
+      "darkPath": "/model-brand-icons/suno.png"
+    },
+    {
+      "name": "ElevenLabs",
+      "vendor": "ElevenLabs",
+      "kind": "audio",
+      "brand": "elevenlabs",
+      "localPath": "/model-brand-icons/elevenlabs.svg",
+      "darkPath": "/model-brand-icons/elevenlabs.svg"
+    },
+    {
+      "name": "CosyVoice",
+      "vendor": "Alibaba",
+      "kind": "audio",
+      "brand": "alibaba-cloud",
+      "localPath": "/model-brand-icons/alibaba-cloud.svg",
+      "darkPath": "/model-brand-icons/alibaba-cloud.svg"
+    },
+    {
+      "name": "Whisper",
+      "vendor": "OpenAI",
+      "kind": "audio",
+      "brand": "openai",
+      "localPath": "/model-brand-icons/openai.svg",
+      "darkPath": "/model-brand-icons/openai.svg"
+    }
+  ],
+  "fallbackNotes": {
+    "GPT-4.1": "Uses the official OpenAI symbol.",
+    "GPT Image": "Uses the official OpenAI symbol.",
+    "Whisper": "Uses the official OpenAI symbol.",
+    "Sora 2": "Uses the official OpenAI symbol; no usable independent graphic was retrieved from the official sources reviewed.",
+    "Llama 4": "Uses the official Meta infinity symbol; no usable independent graphic was retrieved from the official sources reviewed.",
+    "Flux 2": "Uses the Black Forest Labs official brand symbol and its published black/white variants.",
+    "Imagen 4": "Uses the official Google symbol; the official product page did not provide a separate compact product graphic.",
+    "Veo 3": "Uses the official Google symbol; the official product page did not provide a separate compact product graphic.",
+    "CosyVoice": "Uses the official Alibaba Cloud symbol; the official project repository did not provide a separate product graphic."
+  }
+}

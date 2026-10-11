@@ -1,0 +1,144 @@
+{
+  "origin": "https://stars.chromeexperiments.com/",
+  "retrieved": "2026-10-09",
+  "files": [
+    {
+      "path": "js/three.min.js",
+      "source": "https://stars.chromeexperiments.com/js/three.min.js",
+      "bytes": 410947,
+      "sha256": "9dea460d731fec23e3d9e7bdb1c6767cfb6f8083b472e109bf91d16bf877eb81"
+    },
+    {
+      "path": "js/galaxy.js",
+      "source": "https://stars.chromeexperiments.com/js/galaxy.js",
+      "bytes": 8107,
+      "sha256": "d906d0e6b47a4bd8e0ac5bf20cb0acf59c38dc3e6a50efff019199a070a793ae"
+    },
+    {
+      "path": "js/lensflare.js",
+      "source": "https://stars.chromeexperiments.com/js/lensflare.js",
+      "bytes": 3770,
+      "sha256": "f5533cbde598cf84d7635d7b2e5135e7f89cf64af1e2a853c30c6028c75e8ee6"
+    },
+    {
+      "path": "shaders/galacticstars.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticstars.vsh",
+      "bytes": 565,
+      "sha256": "b2ecca13a03bd472f438655b1d4c261962af5e72e1319c22298173f140844e60"
+    },
+    {
+      "path": "shaders/galacticstars.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/galacticstars.fsh",
+      "bytes": 875,
+      "sha256": "df48d77a7f88da67fbf2df5635cbc4e7cc242c0418a8554e7a9627edf89d26b1"
+    },
+    {
+      "path": "images/galactic_sharp.png",
+      "source": "https://stars.chromeexperiments.com/images/galactic_sharp.png",
+      "bytes": 49077,
+      "sha256": "ae9527c36dfdd91294bf8ff9dcd38469c2588662a9e45f34a3cdcae250b661f8"
+    },
+    {
+      "path": "images/galactic_blur.png",
+      "source": "https://stars.chromeexperiments.com/images/galactic_blur.png",
+      "bytes": 21547,
+      "sha256": "2b261f421e2b791f493657915a172eb1c563cf1614e9ec783f127ab6f5dbb114"
+    },
+    {
+      "path": "images/galactictop.png",
+      "source": "https://stars.chromeexperiments.com/images/galactictop.png",
+      "bytes": 292925,
+      "sha256": "99d89cc6c1ca851b06124ca3a8ee459de786d75a5e78ea9a255639625f6cb9c6"
+    },
+    {
+      "path": "images/lensflare/lensflare0.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare0.png",
+      "bytes": 38902,
+      "sha256": "dc578ad08bc4a67215700e4f7841721b5eec576f2d887670e13c2c1ecaf7d8e1"
+    },
+    {
+      "path": "images/lensflare/lensflare1.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare1.png",
+      "bytes": 4025,
+      "sha256": "d49a9973b51890e4b556411fa1423ae71a2603b98e0ccd33d75baa58d73805c0"
+    },
+    {
+      "path": "images/lensflare/lensflare2.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare2.png",
+      "bytes": 2107,
+      "sha256": "582adb92597726150b33129024d1071b31df32546646842d06d466ba9ba87993"
+    },
+    {
+      "path": "images/lensflare/lensflare3.png",
+      "source": "https://stars.chromeexperiments.com/images/lensflare/lensflare3.png",
+      "bytes": 4866,
+      "sha256": "bf72802647629956d0dd3dd4f5cade482be1a73207d6624cc014b3dfbf4f47f4"
+    },
+    {
+      "path": "images/glowspan.png",
+      "source": "https://stars.chromeexperiments.com/images/glowspan.png",
+      "bytes": 3015,
+      "sha256": "d0792eeb143e0fee9f728cc13d4d6258d7ea88c52b99937484cbdc73232997c2"
+    },
+    {
+      "path": "js/hipparcos.js",
+      "source": "https://stars.chromeexperiments.com/js/hipparcos.js",
+      "bytes": 12854,
+      "sha256": "6e0f634200ef20894762d91e8e4a6039f31c72469539a0e64360eb29a4125c28"
+    },
+    {
+      "path": "shaders/datastars.vsh",
+      "source": "https://stars.chromeexperiments.com/shaders/datastars.vsh",
+      "bytes": 599,
+      "sha256": "7aab7f7f9cdf559937af9fe99cce2e751652d063357aea994377b975da732385"
+    },
+    {
+      "path": "shaders/datastars.fsh",
+      "source": "https://stars.chromeexperiments.com/shaders/datastars.fsh",
+      "bytes": 1610,
+      "sha256": "7604331f6439cabad939a5cf594021b8ffcf700815c1a7b0907a8c8445fb3754"
+    },
+    {
+      "path": "data/stars_all.json",
+      "source": "https://stars.chromeexperiments.com/data/stars_all.json",
+      "bytes": 8988378,
+      "sha256": "25d55df0daec8d88e1c63345538d8f558cea8fc815149604632527c86e34d8e0"
+    },
+    {
+      "path": "images/p_0.png",
+      "source": "https://stars.chromeexperiments.com/images/p_0.png",
+      "bytes": 53535,
+      "sha256": "2c9228e938ace2802e1d6de0ad46ed2607f269bfe1b80e819b5bc931719dc8ec"
+    },
+    {
+      "path": "images/p_2.png",
+      "source": "https://stars.chromeexperiments.com/images/p_2.png",
+      "bytes": 119161,
+      "sha256": "6699f4518eecce152aa08738f8fe637e57baa05b6ee1ac2b44d7652e043c81e3"
+    },
+    {
+      "path": "images/sharppoint.png",
+      "source": "https://stars.chromeexperiments.com/images/sharppoint.png",
+      "bytes": 2965,
+      "sha256": "03bfd730b41f55e5f2c6c024d0ef9713d8e42bd3c610250194f55964dc3c08e3"
+    },
+    {
+      "path": "images/star_preview.png",
+      "source": "https://stars.chromeexperiments.com/images/star_preview.png",
+      "bytes": 30462,
+      "sha256": "38f3a876581d0350bd8109dcfaf9ea52051189f32056ba9465baaa3a8d7b2258"
+    },
+    {
+      "path": "images/star_color_modified.png",
+      "source": "https://stars.chromeexperiments.com/images/star_color_modified.png",
+      "bytes": 6428,
+      "sha256": "2ecd2f84f2916d339133b8f31daa0fe2c4a1857d069ffd155b5582c529d8c993"
+    },
+    {
+      "path": "images/starbase.png",
+      "source": "https://stars.chromeexperiments.com/images/starbase.png",
+      "bytes": 41304,
+      "sha256": "8751ad2c04d6285933ae9799a53a5bff74be9d82338510742a5bba3741e1c2ff"
+    }
+  ]
+}

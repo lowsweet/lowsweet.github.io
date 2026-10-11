@@ -1,0 +1,43 @@
+{
+  "retrieved": "2026-10-09",
+  "source": "https://www.beautifului.dev/",
+  "registry": "https://www.beautifului.dev/r/registry.json",
+  "files": [
+    {
+      "file": "ApprovalCard.tsx.txt",
+      "sha256": "5e90ba19b79f4d385a34e9cf703b15e819c72df93d70a72c8c01aa85d500ca95"
+    },
+    {
+      "file": "Button.tsx.txt",
+      "sha256": "1d939f68820366648a7b3292b88001da41253154bc49494be60cb8188100f0b0"
+    },
+    {
+      "file": "GlideMenu.tsx.txt",
+      "sha256": "2b8b64092740dad23aed3367b1e7eaa3e15a8bc0a2ed559c3dec13bb4ba2e00f"
+    },
+    {
+      "file": "approval-card.json",
+      "sha256": "90e46ae7059059d4fb88ddbcbe079d79c306eebe34b27fa83fc821acbda8542e"
+    },
+    {
+      "file": "button.json",
+      "sha256": "7a3e26f23bc0f33edb223d04b46355c952d11d486415e74d507cef0bc3bbcec4"
+    },
+    {
+      "file": "foundation.css",
+      "sha256": "32c68b62b5bfa18fc33cb291f6966d02dc2585a87e75e925c86225b2cf058e1d"
+    },
+    {
+      "file": "foundation.json",
+      "sha256": "c3b97e7d7cac0c53b78823611b8fd793f136bfde72b8e4635147fb83f6fc162c"
+    },
+    {
+      "file": "glide-menu.json",
+      "sha256": "bac5a6d210189ae9a0f963d353ea9ad9997a700f99573f99684f7089d1022842"
+    },
+    {
+      "file": "registry.json",
+      "sha256": "96ab0f5b7f30fe8b6b37fc77c9dce7cf4c8816d38d06c9eb59137ba0a90f7da5"
+    }
+  ]
+}

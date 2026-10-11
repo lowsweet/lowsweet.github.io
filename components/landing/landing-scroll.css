@@ -1,0 +1,52 @@
+/* Native snapping settles each scroll on one screen. Oversized sections remain
+   freely readable while they fill the viewport, including on short phones. */
+html.landing-scroll-snap {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  scroll-padding: 0;
+}
+
+html.landing-scroll-static {
+  scroll-behavior: auto;
+}
+
+.linkeai-home > .landing-section,
+.linkeai-home > .landing-final-screen {
+  min-height: 100svh;
+  min-height: 100dvh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+.linkeai-home > .landing-capabilities {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.landing-final-screen {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.landing-final-screen > .landing-signup {
+  flex: 1;
+  min-height: auto;
+  scroll-snap-align: none;
+}
+
+/* The fixed mobile navigation has two rows. Keep section titles below it. */
+@media (max-width: 700px) {
+  .linkeai-home > .landing-capabilities,
+  .landing-final-screen > .landing-signup {
+    padding-top: 128px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.landing-scroll-snap {
+    scroll-behavior: auto;
+  }
+}

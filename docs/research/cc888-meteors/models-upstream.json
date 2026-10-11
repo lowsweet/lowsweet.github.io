@@ -1,0 +1,252 @@
+[
+  {
+    "id": 990000355,
+    "展示名称": "Haiku 5.5",
+    "模型图标": "https://os.cc888.ai/claude.svg"
+  },
+  {
+    "id": 990000354,
+    "展示名称": "Suno 音乐生成 6",
+    "模型图标": "https://cos.lingkeai.vip/uploads/2026.07/23/20260723022627_afed8e9e83001476.svg"
+  },
+  {
+    "id": 990000349,
+    "展示名称": "Sonnet 5.5",
+    "模型图标": "https://os.cc888.ai/claude.svg"
+  },
+  {
+    "id": 990000107,
+    "展示名称": "opus-5",
+    "模型图标": "https://os.cc888.ai/claude.svg"
+  },
+  {
+    "id": 990000106,
+    "展示名称": "Gemini 3.6 flash",
+    "模型图标": "https://os.cc888.ai/gemini.svg"
+  },
+  {
+    "id": 224,
+    "展示名称": "Nano Banana 2.1 官转",
+    "模型图标": "https://cos.lingkeai.vip/banana.svg"
+  },
+  {
+    "id": 223,
+    "展示名称": "Nano Banana 2.1 按次",
+    "模型图标": "https://cos.lingkeai.vip/banana.svg"
+  },
+  {
+    "id": 222,
+    "展示名称": "GPT-6.1 sol",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 221,
+    "展示名称": "mimo-v2.6-pro",
+    "模型图标": "https://cos.lingkeai.vip/mimo_bai.svg"
+  },
+  {
+    "id": 220,
+    "展示名称": "Grok 4.7",
+    "模型图标": "https://os.cc888.ai/grok.svg"
+  },
+  {
+    "id": 219,
+    "展示名称": "GPT-6 luna",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 218,
+    "展示名称": "GPT-6 sol",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 217,
+    "展示名称": "Opus 5.5",
+    "模型图标": "https://os.cc888.ai/claude.svg"
+  },
+  {
+    "id": 216,
+    "展示名称": "GLM-5.3 FlashX",
+    "模型图标": "https://cos.lingkeai.vip/glm.svg"
+  },
+  {
+    "id": 215,
+    "展示名称": "DS-V4.1-Flash",
+    "模型图标": "https://cos.lingkeai.vip/deepseek.svg"
+  },
+  {
+    "id": 214,
+    "展示名称": "GPT Image 2.5 官转",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 213,
+    "展示名称": "GPT Image 2.5",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 212,
+    "展示名称": "MiniMax H3 Max",
+    "模型图标": "https://cos.lingkeai.vip/minimax.svg"
+  },
+  {
+    "id": 211,
+    "展示名称": "千问 3.8 Flash Next",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 210,
+    "展示名称": "千问 3.8 Max 0902",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 209,
+    "展示名称": "GPT-6 astra",
+    "模型图标": "https://os.cc888.ai/openai.svg"
+  },
+  {
+    "id": 208,
+    "展示名称": "Gemini 3.8 flash",
+    "模型图标": "https://os.cc888.ai/gemini.svg"
+  },
+  {
+    "id": 207,
+    "展示名称": "fable-5.1",
+    "模型图标": "https://os.cc888.ai/claude.svg"
+  },
+  {
+    "id": 206,
+    "展示名称": "MiniMax H3",
+    "模型图标": "https://cos.lingkeai.vip/minimax.svg"
+  },
+  {
+    "id": 205,
+    "展示名称": "万相 3.0",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 204,
+    "展示名称": "Omni 1.1",
+    "模型图标": "https://os.cc888.ai/gemini.svg"
+  },
+  {
+    "id": 203,
+    "展示名称": "SD 2.5 满血版 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 202,
+    "展示名称": "SD 2.0 满血版 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 201,
+    "展示名称": "SD 2.5 满血版",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 200,
+    "展示名称": "SD 2.0 满血版",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 199,
+    "展示名称": "SD 2.5 首尾帧 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 198,
+    "展示名称": "SD 2.5 文生 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 197,
+    "展示名称": "SD 2.0 参考生 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 196,
+    "展示名称": "视频超分",
+    "模型图标": "https://cos.lingkeai.vip/video-enhance.svg"
+  },
+  {
+    "id": 195,
+    "展示名称": "SD 2.5 全能参考 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 194,
+    "展示名称": "SD 2.5 参考生 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 193,
+    "展示名称": "SD 2.0 全能参考 按秒",
+    "模型图标": "https://cos.lingkeai.vip/doubao.svg"
+  },
+  {
+    "id": 192,
+    "展示名称": "海螺 H3 Max 首尾帧",
+    "模型图标": "https://cos.lingkeai.vip/minimax.svg"
+  },
+  {
+    "id": 191,
+    "展示名称": "海螺 H3 Max 文生视频",
+    "模型图标": "https://cos.lingkeai.vip/minimax.svg"
+  },
+  {
+    "id": 190,
+    "展示名称": "Omni Flash 首尾帧",
+    "模型图标": "https://os.cc888.ai/gemini.svg"
+  },
+  {
+    "id": 189,
+    "展示名称": "千问 3.8 Flash",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 188,
+    "展示名称": "GLM-5.3 Flash",
+    "模型图标": "https://cos.lingkeai.vip/glm.svg"
+  },
+  {
+    "id": 187,
+    "展示名称": "万相3.0 全能参考",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 186,
+    "展示名称": "万相3.0 参考生",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 185,
+    "展示名称": "万相3.0 首尾帧",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 184,
+    "展示名称": "万相3.0 文生视频",
+    "模型图标": "https://cos.lingkeai.vip/qwen.svg"
+  },
+  {
+    "id": 182,
+    "展示名称": "Grok Image 2.0",
+    "模型图标": "https://os.cc888.ai/grok.svg"
+  },
+  {
+    "id": 181,
+    "展示名称": "DS-V4-Flash-Vision-Exp",
+    "模型图标": "https://cos.lingkeai.vip/deepseek.svg"
+  },
+  {
+    "id": 180,
+    "展示名称": "DS-V4-Pro-0813",
+    "模型图标": "https://cos.lingkeai.vip/deepseek.svg"
+  },
+  {
+    "id": 179,
+    "展示名称": "DS-V4-Flash-0731",
+    "模型图标": "https://cos.lingkeai.vip/deepseek.svg"
+  }
+]

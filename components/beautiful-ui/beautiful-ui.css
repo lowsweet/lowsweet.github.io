@@ -1,0 +1,129 @@
+/* Beautiful UI, Copyright (c) 2026 Shane Levine, MIT.
+   Upstream dark foundation values are scoped so the galaxy and workbench
+   keep their own layouts. No external stylesheet or runtime is needed. */
+@font-face {
+  font-family: "Beautiful Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/inter-latin.woff2') format('woff2');
+}
+.beautiful-ui {
+  --bui-page: oklch(0.209 0.004 264.477);
+  --bui-canvas: oklch(0.231 0.004 264.487);
+  --bui-surface: oklch(0.26 0.006 271.191);
+  --bui-inset: oklch(0.243 0.004 264.492);
+  --bui-hover: oklch(0.289 0.006 271.22);
+  --bui-hover-2: oklch(0.318 0.007 274.747);
+  --bui-ink: oklch(0.964 0.002 247.839);
+  --bui-ink-2: oklch(0.731 0.008 260.731);
+  --bui-ink-3: oklch(0.541 0.01 264.484);
+  --bui-line: oklch(0.308 0.006 258.354);
+  --bui-line-strong: oklch(0.356 0.007 264.474);
+  --bui-line-soft: oklch(0.278 0.006 258.354);
+  --bui-field: oklch(0.293 0.006 271.223);
+  --bui-accent: var(--bui-ink);
+  --bui-accent-ink: var(--bui-ink);
+  --bui-accent-tint: oklch(1 0 0 / 0.09);
+  --bui-green: oklch(0.705 0.154 153.814);
+  --bui-green-tint: oklch(0.705 0.154 153.814 / 0.14);
+  --bui-red: oklch(0.666 0.18 21.433);
+  --bui-shadow-btn: 0 0 0 1px oklch(1 0 0 / 0.1), 0 1px 2px oklch(0 0 0 / 0.3);
+  --bui-shadow-card: 0 0 0 1px oklch(1 0 0 / 0.11), 0 1px 2px oklch(0 0 0 / 0.2), 0 2px 6px oklch(0 0 0 / 0.2);
+  --bui-shadow-overlay: 0 0 0 1px oklch(1 0 0 / 0.15), 0 8px 28px oklch(0 0 0 / 0.34);
+  color: var(--bui-ink);
+  font-family: "Beautiful Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-feature-settings: "cv11", "ss01";
+  letter-spacing: -.01em;
+  color-scheme: dark;
+}
+.beautiful-ui :is(h1,h2,h3) { text-wrap: balance; }
+.beautiful-ui p { text-wrap: pretty; }
+.beautiful-ui :is(button,a,input,textarea):focus-visible { outline: 2px solid var(--bui-accent); outline-offset: 3px; }
+.beautiful-ui .bui-button {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--bui-ink);
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  text-decoration: none;
+  user-select: none;
+  cursor: pointer;
+  transition: transform 150ms cubic-bezier(0,0,.2,1), background-color 150ms cubic-bezier(0,0,.2,1), opacity 150ms cubic-bezier(0,0,.2,1);
+}
+.beautiful-ui .bui-button:active { transform: scale(.96); }
+.beautiful-ui .bui-button:disabled { opacity: .5; pointer-events: none; }
+.beautiful-ui .bui-button svg { flex-shrink: 0; pointer-events: none; }
+.beautiful-ui .bui-button-primary { background: var(--bui-ink); color: var(--bui-canvas); box-shadow: inset 0 1px 0 #ffffff24; }
+.beautiful-ui .bui-button-primary:hover { opacity: .9; }
+.beautiful-ui .bui-button-secondary { background: var(--bui-surface); color: var(--bui-ink); box-shadow: var(--bui-shadow-btn); }
+.beautiful-ui .bui-button-secondary:hover { background: var(--bui-inset); }
+.beautiful-ui .bui-button-secondary[aria-expanded=true] { background: var(--bui-hover); }
+.beautiful-ui .bui-button-ghost { background: var(--bui-hover-2); }
+.beautiful-ui .bui-button-ghost:hover { background: var(--bui-line-strong); }
+.beautiful-ui .bui-button-accent { background: var(--bui-ink); color: var(--bui-canvas); box-shadow: inset 0 1px 0 #ffffff24; }
+.beautiful-ui .bui-button-accent:hover { opacity: .9; }
+.beautiful-ui .bui-button-success { background: var(--bui-green); color: white; box-shadow: inset 0 1px 0 #ffffff24; }
+.beautiful-ui .bui-button-success:hover { filter: brightness(.95); }
+.beautiful-ui .bui-button-quiet:hover { background: var(--bui-hover); }
+.beautiful-ui .bui-button-xs { height: 28px; padding: 0 10px; font-size: 12px; font-weight: 400; gap: 4px; }
+.beautiful-ui .bui-button-sm { height: 27px; padding: 0 12px; font-size: 13px; gap: 6px; }
+.beautiful-ui .bui-button-md { padding: 9px 16px; font-size: 14px; gap: 8px; }
+/* Larger hit targets retain the upstream pill, color, shadow and press states. */
+.beautiful-ui .bui-button-lg { min-height: 44px; padding: 12px 22px; font-size: 14px; gap: 8px; }
+.beautiful-ui .bui-button-icon { width: 36px; height: 36px; padding: 0; border-radius: 8px; }
+.beautiful-ui .bui-field {
+  width: 100%;
+  min-width: 0;
+  min-height: 40px;
+  border: 1px solid var(--bui-line-strong);
+  border-radius: 8px;
+  background: var(--bui-inset);
+  box-shadow: inset 0 1px 2px oklch(0 0 0 / .4);
+  color: var(--bui-ink);
+  padding: 10px 12px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: border-color 150ms, box-shadow 150ms;
+}
+.beautiful-ui .bui-field::placeholder { color: var(--bui-ink-3); }
+.beautiful-ui .bui-field:focus-visible { outline: none; border-color: var(--bui-accent); box-shadow: 0 0 0 3px var(--bui-accent-tint); }
+.beautiful-ui .bui-textarea { resize: vertical; min-height: 104px; }
+.beautiful-ui .bui-badge { display: inline-flex; align-items: center; gap: 5px; padding: 3px 7px; border-radius: 6px; font-size: 11px; line-height: 1.4; font-weight: 500; background: var(--bui-hover-2); color: var(--bui-ink-2); }
+.beautiful-ui .bui-card { border: 0; border-radius: 10px; background: var(--bui-surface); color: var(--bui-ink); box-shadow: var(--bui-shadow-card); }
+.bui-dialog-overlay { position: fixed; inset: 0; z-index: 50; background: oklch(0 0 0 / .62); backdrop-filter: blur(4px); }
+.bui-dialog { position: fixed; z-index: 51; top: 50%; left: 50%; transform: translate(-50%,-50%); display: grid; gap: 20px; width: min(460px,calc(100% - 32px)); max-height: calc(100svh - 40px); overflow: auto; padding: 24px; border: 0; border-radius: 14px; background: var(--bui-surface); box-shadow: var(--bui-shadow-overlay); outline: none; }
+.bui-dialog-header { display: flex; flex-direction: column; gap: 10px; }
+.bui-dialog-title { margin: 0; color: var(--bui-ink); font-size: 18px; font-weight: 500; line-height: 1.4; letter-spacing: -.02em; }
+.bui-dialog-description { margin: 0; color: var(--bui-ink-2); font-size: 13px; line-height: 1.7; }
+.bui-dialog-footer { display: flex; justify-content: flex-end; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.bui-dialog[data-state=open],.bui-menu[data-state=open] { animation: bui-pop-in 180ms cubic-bezier(.23,1,.32,1); }
+.bui-dialog-overlay[data-state=open] { animation: bui-fade-in 150ms ease-out; }
+.bui-menu { z-index: 52; min-width: 190px; max-height: var(--radix-dropdown-menu-content-available-height); overflow: auto; padding: 5px; border-radius: 10px; background: var(--bui-surface); box-shadow: var(--bui-shadow-overlay); transform-origin: var(--radix-dropdown-menu-content-transform-origin); }
+.bui-glide-menu { position: relative; }
+.bui-glide-highlight { position: absolute; inset-inline: 0; pointer-events: none; border-radius: 8px; background: var(--bui-hover); transition: top 220ms cubic-bezier(.23,1,.32,1), height 220ms cubic-bezier(.23,1,.32,1), opacity 150ms ease; }
+.bui-menu-item { position: relative; z-index: 1; display: flex; align-items: center; gap: 8px; min-height: 36px; padding: 9px 10px; border-radius: 8px; color: var(--bui-ink-2); font-size: 13px; outline: none; cursor: pointer; }
+.bui-menu-item[data-highlighted] { color: var(--bui-ink); }
+.bui-menu-item svg { width: 16px; height: 16px; }
+.beautiful-ui .bui-alert { padding: 10px 12px; border-radius: 8px; background: oklch(.666 .18 21.433 / .12); color: var(--bui-red); font-size: 13px; line-height: 1.6; }
+@keyframes bui-pop-in { from { opacity: 0; scale: .97; } to { opacity: 1; scale: 1; } }
+@keyframes bui-fade-in { from { opacity: 0; } to { opacity: 1; } }
+@media (max-width:700px) {
+  .beautiful-ui .bui-button-icon { width: 40px; height: 40px; }
+  .beautiful-ui .bui-button-sm { min-height: 36px; }
+  .beautiful-ui .bui-button-md { min-height: 40px; }
+  .beautiful-ui .bui-button-lg { padding-inline: 16px; }
+  .beautiful-ui .bui-field { font-size: 16px; }
+  .bui-menu-item { min-height: 44px; }
+}
+@media (prefers-reduced-motion:reduce) {
+  .beautiful-ui .bui-button,.bui-glide-highlight,.beautiful-ui .bui-field { transition: none; }
+  .beautiful-ui .bui-button:active { transform: none; }
+  .bui-dialog,.bui-menu,.bui-dialog-overlay { animation: none !important; }
+}

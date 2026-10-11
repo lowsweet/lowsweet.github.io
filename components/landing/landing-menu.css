@@ -1,0 +1,18 @@
+/* Header layout only. Beautiful UI supplies the buttons and GlideMenu surface. */
+.linkeai-home .landing-menu-header{display:flex;align-items:center;justify-content:space-between;gap:28px}
+.linkeai-home .landing-menu-header .landing-menu-nav{display:flex;align-items:center;gap:16px}
+.linkeai-home .landing-menu-header .bui-button{min-height:40px}
+.linkeai-home .landing-menu-header .landing-menu-language{gap:7px;padding-inline:12px}
+.landing-menu-language svg{transition:transform 180ms ease}
+.landing-menu-language[data-state="open"] svg{transform:rotate(180deg)}
+.landing-language-menu .bui-menu-item{justify-content:space-between}
+.linkeai-home[data-locale="en"] .landing-hero-copy h1{font-size:clamp(38px,4vw,56px);letter-spacing:-.035em}
+@media(min-width:1600px){.linkeai-home[data-locale="en"] .landing-hero-copy h1{font-size:70px}}
+@media(max-width:700px){
+  .linkeai-home .landing-menu-header{display:grid;grid-template-columns:1fr;padding:16px 24px;gap:6px}
+  .linkeai-home .landing-menu-header .landing-menu-nav{justify-content:space-between;gap:2px}
+  .linkeai-home .landing-menu-header .bui-button{padding-inline:8px;font-size:13px}
+  .linkeai-home .landing-menu-header .landing-menu-language{gap:4px}
+  .linkeai-home[data-locale="en"] .landing-hero-copy h1{font-size:clamp(29px,8.2vw,39px)}
+}
+@media(prefers-reduced-motion:reduce){.landing-menu-language svg{transition:none}}

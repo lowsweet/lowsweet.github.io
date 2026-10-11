@@ -1,0 +1,5 @@
+.linkeai-home .landing-start-thermal{position:relative;isolation:isolate;overflow:hidden;background:#000;color:var(--bui-ink);box-shadow:none}
+.linkeai-home .landing-start-thermal:hover{opacity:1}
+.landing-thermal-fill{position:absolute;inset:0;overflow:hidden;border-radius:inherit;pointer-events:none;background:#000 url('/kamera-thermal-button-fallback.png') center/100% 100% no-repeat}
+.landing-thermal-fill canvas{display:block;position:absolute;inset:0;width:100%;height:100%;opacity:0;pointer-events:none}
+.landing-start-label{position:relative;z-index:1;text-shadow:0 1px 3px rgb(0 0 0 / .9)}

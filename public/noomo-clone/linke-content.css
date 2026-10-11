@@ -1,0 +1,103 @@
+@font-face{font-family:Linke Noto Sans SC;src:url('/noomo-clone/fonts/noto-sans-sc.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:Linke Noto Sans SC;src:url('/noomo-clone/fonts/noto-sans-sc-medium.woff2') format('woff2');font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:Linke Noto Sans SC;src:url('/noomo-clone/fonts/noto-sans-sc-bold.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:Linke Noto Serif SC;src:url('/noomo-clone/fonts/noto-serif-sc.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}
+html[data-linke-locale="zh-CN"]{--font-sans-regular:TTNeoris,Linke Noto Sans SC,sans-serif;--font-serif:Linke Noto Sans SC,sans-serif}
+html[data-linke-locale="zh-CN"] body{font-family:TTNeoris,Linke Noto Sans SC,sans-serif}
+html[data-linke-locale="zh-CN"] [class*="text-serif"]{font-family:Linke Noto Sans SC,sans-serif;font-style:normal!important;font-synthesis:none}
+.linke-wordmark{display:inline-flex;align-items:center;gap:10px;flex-shrink:0;white-space:nowrap;font-size:30px;font-weight:600;letter-spacing:-1px;line-height:36px;color:#2a2336}
+.linke-brand-symbol{display:block;width:30px;height:30px;flex:none;background:currentColor;-webkit-mask:url('/noomo-clone/images/svg/linke-logo.svg') center/contain no-repeat;mask:url('/noomo-clone/images/svg/linke-logo.svg') center/contain no-repeat}
+.linke-wordmark-light{color:#fff}
+.logo-link:hover .linke-wordmark{opacity:1}
+.home-hero h2{white-space:normal;max-width:90vw;line-height:1.12;margin-bottom:clamp(12px,1.8vw,28px)}
+.home-hero h1{transform:none;text-align:right;white-space:nowrap;line-height:1;padding:0;letter-spacing:-.1vw;margin-bottom:clamp(24px,3.8vh,44px);max-width:100%}
+.home-hero h1 .char{margin-left:0;margin-bottom:0;padding:.025em .018em .055em;padding-right:.018em!important;background:linear-gradient(180deg,#fffcff 0 25%,#e3f0ff 65% 80%);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+html[data-linke-locale="zh-CN"] .home-hero :is(h1,h2){font-family:Linke Noto Sans SC,sans-serif;font-size:clamp(36px,9vw,128px);font-weight:500;font-style:normal;font-synthesis:none;line-height:1.15;letter-spacing:0;text-align:left;white-space:nowrap;max-width:100%;margin-top:0}
+html[data-linke-locale="zh-CN"] .home-hero h2{margin-left:0;margin-bottom:.12em}
+html[data-linke-locale="zh-CN"] .home-hero h1{font-weight:700}
+html[data-linke-locale="zh-CN"] .home-hero h1 :is(.char,[class^="char"]){margin:0;padding:0!important}
+.linke-copy-line{width:min(27vw,360px);transform:translateY(-.18em);margin-inline:auto;max-width:90vw}
+.animated-text,.animated-text-big{max-width:calc(100vw - 40px)}
+.animated-text p,.animated-text-big p{overflow-wrap:normal;word-break:normal}
+/* Full-height Chinese glyphs need more leading than the source Latin type. */
+html[data-linke-locale="zh-CN"] :is(.animated-text,.animated-text-big) p{line-height:1.35}
+html[data-linke-locale="zh-CN"] .animated-text p[class~="xs:text-sans-18"]{line-height:1.6}
+.linke-footer-brand{font:500 clamp(70px,10vw,145px)/1 TTNeoris,Linke Noto Sans SC,sans-serif;letter-spacing:-.055em;text-align:center;color:white}
+.linke-footer{display:grid;grid-template-rows:minmax(0,1fr) auto minmax(0,1fr);gap:clamp(20px,4vh,48px);height:100vh;height:100dvh;padding:90px clamp(20px,3.5vw,60px) max(28px,env(safe-area-inset-bottom));box-sizing:border-box}
+.linke-footer-brand{margin:20px 0 28px;font-size:clamp(64px,8vw,112px)}
+.linke-footer-lead{max-width:min(900px,90vw);font-size:clamp(24px,3.2vw,46px);line-height:1.35;margin:0}
+.linke-footer-actions{display:flex;flex-direction:column;align-items:stretch;gap:14px;width:min(336px,100%)}
+.linke-footer-buttons{display:flex;flex-direction:column;align-items:stretch;justify-content:center;gap:14px;width:100%}
+.linke-footer .linke-source-cta{width:100%;box-sizing:border-box;min-height:50px;padding:12px 28px;font-size:17px;line-height:1.3;border-color:#ffffff59;border-radius:999px}
+.linke-footer .linke-footer-start{background:#f8f5f0;color:#231b18;border-color:#f8f5f0;min-width:152px}
+.linke-footer .linke-footer-support{min-width:108px;background:#ffffff05}
+.linke-footer .linke-source-cta:hover{border-radius:999px;background:#ffffff18}
+.linke-footer .linke-footer-start:hover{background:#e9e2d8}
+.linke-footer-offer{display:block;width:100%;box-sizing:border-box;padding:12px 24px;border:1px solid #eadac43b;border-radius:999px;background:#ffffff05;color:#e8d9c7;text-align:center;font-size:14px;line-height:1.6;text-decoration:none;transition:background .2s,border-color .2s}
+.linke-footer-offer:hover{background:#ffffff0d;border-color:#eadac477}
+.linke-footer-gift{display:flex;flex-direction:column;align-items:stretch;gap:10px;width:100%}
+.linke-footer-offer-copy{margin:0;color:#e8d9c7b3;font-size:12px;line-height:1.7;text-align:center;text-wrap:balance}
+.linke-footer-meta{align-self:end;display:flex;flex-direction:column;align-items:center;gap:12px;width:100%;color:#ffffff8f;font-size:12px;line-height:1.6;text-align:center}
+.linke-footer-info,.linke-footer-links{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px 16px}
+.linke-footer-info>span+span{border-left:1px solid #ffffff24;padding-left:16px}
+.linke-footer-meta a{color:inherit;text-decoration:none;transition:color .2s}
+.linke-footer-meta a:hover{color:#fff}
+.linke-footer-links a:first-child,.linke-footer-email{color:#e8d9c7!important}
+.linke-footer-links a+a{border-left:1px solid #ffffff24;padding-left:16px}
+.linke-footer-payments{display:flex;align-items:center;justify-content:center;gap:18px;margin-top:3px}
+.linke-footer-payments img{display:block;width:38px;height:24px;object-fit:contain;opacity:.85}
+.linke-footer :is(a,button):focus-visible{outline:2px solid #f8f5f0;outline-offset:4px}
+.linke-source-cta{display:inline-flex;align-items:center;justify-content:center;min-height:54px;padding:12px 30px;border:1px solid #ffffff69;border-radius:100px;color:#fff;background:transparent;font-family:inherit;line-height:1.2;text-decoration:none;cursor:pointer;transition:background .35s,border-radius .35s,opacity .35s}
+.linke-source-cta:hover{background:#ffffff14;border-radius:16px}
+.linke-source-cta:focus-visible{outline:2px solid currentColor;outline-offset:6px}
+.release-spirit{width:max-content;max-width:calc(100vw - 40px);text-decoration:none}
+.release-spirit .linke-create-wrapper{width:max-content;gap:16px;padding-inline:22px;justify-content:center}
+.release-spirit:focus-visible{outline:2px solid currentColor;outline-offset:5px;border-radius:100px}
+.linke-capability-detail{position:fixed;inset:0;z-index:100;overflow:auto;overscroll-behavior:contain;color:#fff;background:#020616eb;opacity:0;visibility:hidden;transition:opacity .5s,visibility .5s;font-family:TTNeoris,Linke Noto Sans SC,sans-serif}
+.linke-capability-detail.is-visible{opacity:1;visibility:visible}
+.linke-detail-top{position:relative;padding:38px;display:flex;justify-content:space-between;align-items:center}
+.linke-detail-wordmark{font-size:30px;font-weight:600;letter-spacing:-1px}
+.linke-detail-number{font-size:18px;opacity:.6}
+.linke-detail-body{max-width:1040px;min-height:calc(100vh - 115px);padding:5vh 38px 10vh;margin:0 auto;display:flex;flex-direction:column;align-items:flex-start;justify-content:center}
+.linke-detail-glyph{width:64px;height:64px;color:#fff;opacity:.8;margin-bottom:30px}
+.linke-detail-glyph svg{width:100%;height:100%}
+.linke-detail-body h1{font:400 clamp(38px,5vw,80px)/1.12 TTNeoris,Linke Noto Sans SC,sans-serif;letter-spacing:-.03em;margin:0 0 30px}
+.linke-detail-description{max-width:740px;font-size:26px;line-height:1.65;opacity:.75;margin:0}
+.linke-detail-uses{margin:36px 0 40px;font-size:18px;line-height:1.5}
+.linke-detail-uses>p{opacity:.45;margin-bottom:15px}
+.linke-detail-uses ul{display:flex;gap:40px;list-style:none;margin:0;padding:0;flex-wrap:wrap}
+.linke-detail-actions{display:flex;gap:20px;flex-wrap:wrap;font-size:22px}
+.linke-detail-close{opacity:.65}
+/* The upstream stylesheet contains md:flex; the adapted 1024px breakpoint
+   needs its own rule because those utility styles are already compiled. */
+@media(min-width:1024px){
+  header .lg\:flex.xs\:hidden{display:flex}
+  html[data-linke-locale="zh-CN"] .home-hero h1{margin-bottom:clamp(112px,12vh,160px)}
+}
+@media(max-width:1023px){
+  .linke-wordmark{gap:8px;font-size:26px;line-height:36px}
+  .linke-brand-symbol{width:26px;height:26px}
+  .home-hero h2{font-size:38px;line-height:1.12;max-width:calc(100vw - 40px)}
+  html[data-linke-locale="en"] .home-hero h2{font-size:clamp(28px,5.5vw,38px)}
+  .home-hero h1{font-size:18.8vw;margin-top:18px;margin-bottom:25px;text-align:center}
+  .animated-text[class*="w-410"]{width:calc(100vw - 40px);max-width:410px}
+  .animated-text:not([class*="text-right"]) p{max-width:calc(100vw - 40px)}
+  .animated-text .linke-copy-line{width:min(65vw,300px)}
+  html[data-linke-locale="zh-CN"] :is(.animated-text,.animated-text-big) p{line-height:1.45}
+  .linke-footer-brand{font-size:clamp(72px,15vw,140px);height:auto;margin:24px 0}
+  .linke-footer{padding-top:78px;gap:24px}
+  .linke-footer-brand{margin:16px 0 24px}
+  .linke-footer .linke-source-cta{min-height:46px;font-size:16px;padding:10px 22px}
+  .linke-footer-offer{font-size:12px;padding:10px 18px}
+  .linke-footer-meta{font-size:11px;gap:10px}
+  .linke-footer-info,.linke-footer-links{gap:6px 12px}
+  .linke-footer-info>span+span,.linke-footer-links a+a{padding-left:12px}
+  .linke-detail-top{padding:20px}
+  .linke-detail-body{padding:36px 24px 64px;min-height:calc(100vh - 80px)}
+  .linke-detail-description{font-size:20px;line-height:1.6}
+  .linke-detail-uses ul{gap:12px 24px}
+  .linke-detail-actions{font-size:18px;gap:12px}
+}
+@media(max-width:540px){.linke-footer-info{max-width:350px}.linke-footer-info>span+span{border-left:0;padding-left:0}.linke-footer-email{flex-basis:100%}.linke-footer-brand{font-size:70px}.linke-footer-lead{font-size:24px}.linke-footer-meta{max-width:420px;justify-self:center}.linke-footer-payments{gap:14px}}
+@media(max-height:680px){.linke-footer{padding-top:72px;padding-bottom:20px;gap:16px}.linke-footer-brand{font-size:64px;margin:12px 0 18px}.linke-footer-lead{font-size:24px}.linke-footer-actions{gap:14px}.linke-footer-meta{gap:8px}.linke-footer .linke-source-cta{min-height:44px}.linke-footer-offer{padding-block:8px}}
+@media(prefers-reduced-motion:reduce){.linke-source-cta,.linke-capability-detail{transition:none}}

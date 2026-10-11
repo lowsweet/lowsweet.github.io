@@ -1,0 +1,79 @@
+/* Shared by the isolated scene and its React static fallback. */
+.linke-language-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  min-height: 24px;
+  padding: 0 8px;
+  border: 0;
+  background: none;
+  color: #293454;
+  font: inherit;
+  font-size: 18px;
+  line-height: 20px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.linke-language-trigger::before { content: ''; position: absolute; inset: -10px 0; }
+.linke-language-trigger-mobile { min-height: 44px; padding: 8px 4px; font-size: 17px; line-height: 1.25; }
+.linke-language-trigger.dark { color: #fff; }
+.linke-language-trigger:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; border-radius: 8px; }
+.linke-language-trigger:hover { opacity: .8; }
+.linke-language-globe {
+  display: block;
+  flex: none;
+  width: 19px;
+  height: 19px;
+  background: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.5'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.5'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+.linke-language-chevron { flex: none; width: 7px; height: 7px; margin: -3px 3px 0 2px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); }
+.linke-language-trigger[aria-expanded="true"] .linke-language-chevron { transform: rotate(225deg); margin-top: 3px; }
+.linke-language-menu {
+  position: fixed;
+  z-index: 150;
+  box-sizing: border-box;
+  width: min(260px, calc(100vw - 24px));
+  max-height: calc(100dvh - 24px);
+  padding: 8px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 1px solid #2934541f;
+  border-radius: 16px;
+  background: #fbf8fbee;
+  color: #293454;
+  box-shadow: 0 14px 50px #19152c26;
+  backdrop-filter: blur(18px);
+  font-family: 'Storytelling Neoris', TTNeoris, 'Storytelling Sans', 'Linke Noto Sans SC', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.35;
+}
+.linke-language-menu[data-theme="dark"] { color: #f8f5fb; background: #171523f2; border-color: #ffffff29; box-shadow: 0 14px 50px #00000040; }
+.linke-language-item {
+  display: grid;
+  grid-template-columns: 16px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 44px;
+  margin: 0;
+  padding: 10px 12px;
+  border: 0;
+  border-radius: 9px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.linke-language-item:hover:not(:disabled), .linke-language-item:focus-visible { background: #2934540a; }
+.linke-language-menu[data-theme="dark"] .linke-language-item:hover:not(:disabled), .linke-language-menu[data-theme="dark"] .linke-language-item:focus-visible { background: #ffffff0d; }
+.linke-language-item:focus-visible { outline: 1px solid currentColor; outline-offset: -2px; }
+.linke-language-item:disabled { opacity: .48; cursor: not-allowed; }
+.linke-language-check { display: block; width: 5px; height: 9px; margin: -2px 0 0 4px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); visibility: hidden; }
+.linke-language-item[aria-checked="true"] .linke-language-check { visibility: visible; }
+.linke-language-status { font-size: 11px; line-height: 1.4; white-space: nowrap; }

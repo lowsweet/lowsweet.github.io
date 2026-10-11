@@ -1,0 +1,252 @@
+[
+  {
+    "id": 990000355,
+    "name": "Haiku 5.5",
+    "iconSrc": "/landing-model-icons/claude.svg"
+  },
+  {
+    "id": 990000354,
+    "name": "Suno 音乐生成 6",
+    "iconSrc": "/landing-model-icons/suno.svg"
+  },
+  {
+    "id": 990000349,
+    "name": "Sonnet 5.5",
+    "iconSrc": "/landing-model-icons/claude.svg"
+  },
+  {
+    "id": 990000107,
+    "name": "opus-5",
+    "iconSrc": "/landing-model-icons/claude.svg"
+  },
+  {
+    "id": 990000106,
+    "name": "Gemini 3.6 flash",
+    "iconSrc": "/landing-model-icons/gemini.svg"
+  },
+  {
+    "id": 224,
+    "name": "Nano Banana 2.1 官转",
+    "iconSrc": "/landing-model-icons/banana.svg"
+  },
+  {
+    "id": 223,
+    "name": "Nano Banana 2.1 按次",
+    "iconSrc": "/landing-model-icons/banana.svg"
+  },
+  {
+    "id": 222,
+    "name": "GPT-6.1 sol",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 221,
+    "name": "mimo-v2.6-pro",
+    "iconSrc": "/landing-model-icons/mimo_bai.svg"
+  },
+  {
+    "id": 220,
+    "name": "Grok 4.7",
+    "iconSrc": "/landing-model-icons/grok.svg"
+  },
+  {
+    "id": 219,
+    "name": "GPT-6 luna",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 218,
+    "name": "GPT-6 sol",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 217,
+    "name": "Opus 5.5",
+    "iconSrc": "/landing-model-icons/claude.svg"
+  },
+  {
+    "id": 216,
+    "name": "GLM-5.3 FlashX",
+    "iconSrc": "/landing-model-icons/glm.svg"
+  },
+  {
+    "id": 215,
+    "name": "DS-V4.1-Flash",
+    "iconSrc": "/landing-model-icons/deepseek.svg"
+  },
+  {
+    "id": 214,
+    "name": "GPT Image 2.5 官转",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 213,
+    "name": "GPT Image 2.5",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 212,
+    "name": "MiniMax H3 Max",
+    "iconSrc": "/landing-model-icons/minimax.svg"
+  },
+  {
+    "id": 211,
+    "name": "千问 3.8 Flash Next",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 210,
+    "name": "千问 3.8 Max 0902",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 209,
+    "name": "GPT-6 astra",
+    "iconSrc": "/landing-model-icons/openai.svg"
+  },
+  {
+    "id": 208,
+    "name": "Gemini 3.8 flash",
+    "iconSrc": "/landing-model-icons/gemini.svg"
+  },
+  {
+    "id": 207,
+    "name": "fable-5.1",
+    "iconSrc": "/landing-model-icons/claude.svg"
+  },
+  {
+    "id": 206,
+    "name": "MiniMax H3",
+    "iconSrc": "/landing-model-icons/minimax.svg"
+  },
+  {
+    "id": 205,
+    "name": "万相 3.0",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 204,
+    "name": "Omni 1.1",
+    "iconSrc": "/landing-model-icons/gemini.svg"
+  },
+  {
+    "id": 203,
+    "name": "SD 2.5 满血版 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 202,
+    "name": "SD 2.0 满血版 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 201,
+    "name": "SD 2.5 满血版",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 200,
+    "name": "SD 2.0 满血版",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 199,
+    "name": "SD 2.5 首尾帧 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 198,
+    "name": "SD 2.5 文生 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 197,
+    "name": "SD 2.0 参考生 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 196,
+    "name": "视频超分",
+    "iconSrc": "/landing-model-icons/video-enhance.svg"
+  },
+  {
+    "id": 195,
+    "name": "SD 2.5 全能参考 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 194,
+    "name": "SD 2.5 参考生 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 193,
+    "name": "SD 2.0 全能参考 按秒",
+    "iconSrc": "/landing-model-icons/doubao.svg"
+  },
+  {
+    "id": 192,
+    "name": "海螺 H3 Max 首尾帧",
+    "iconSrc": "/landing-model-icons/minimax.svg"
+  },
+  {
+    "id": 191,
+    "name": "海螺 H3 Max 文生视频",
+    "iconSrc": "/landing-model-icons/minimax.svg"
+  },
+  {
+    "id": 190,
+    "name": "Omni Flash 首尾帧",
+    "iconSrc": "/landing-model-icons/gemini.svg"
+  },
+  {
+    "id": 189,
+    "name": "千问 3.8 Flash",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 188,
+    "name": "GLM-5.3 Flash",
+    "iconSrc": "/landing-model-icons/glm.svg"
+  },
+  {
+    "id": 187,
+    "name": "万相3.0 全能参考",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 186,
+    "name": "万相3.0 参考生",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 185,
+    "name": "万相3.0 首尾帧",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 184,
+    "name": "万相3.0 文生视频",
+    "iconSrc": "/landing-model-icons/qwen.svg"
+  },
+  {
+    "id": 182,
+    "name": "Grok Image 2.0",
+    "iconSrc": "/landing-model-icons/grok.svg"
+  },
+  {
+    "id": 181,
+    "name": "DS-V4-Flash-Vision-Exp",
+    "iconSrc": "/landing-model-icons/deepseek.svg"
+  },
+  {
+    "id": 180,
+    "name": "DS-V4-Pro-0813",
+    "iconSrc": "/landing-model-icons/deepseek.svg"
+  },
+  {
+    "id": 179,
+    "name": "DS-V4-Flash-0731",
+    "iconSrc": "/landing-model-icons/deepseek.svg"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "validatedAt": "2026-10-12",
+  "scope": "Official local model icons in /app",
+  "catalog": {
+    "models": 24,
+    "brandIdentities": 19,
+    "localFiles": 21,
+    "allMapped": true,
+    "allServedFromLocalhost": true,
+    "allManifestHashesMatched": true
+  },
+  "browser": {
+    "viewports": [
+      "390x844",
+      "768x1024",
+      "1440x1000"
+    ],
+    "themes": [
+      "light",
+      "dark"
+    ],
+    "horizontalOverflow": false,
+    "brokenImages": 0,
+    "sidebarToHeadingChecks": 24,
+    "sidebarToHeadingMatches": 24,
+    "detailDialogIconMatches": true,
+    "searchRegression": {
+      "query": "万相",
+      "results": [
+        "万相 2.5",
+        "万相视频"
+      ],
+      "catalogRestoredAfterClear": 24
+    },
+    "consoleErrors": 0
+  },
+  "commands": {
+    "npm run typecheck": "passed",
+    "npm run build": "passed",
+    "npm run verify:noomo": "passed; 71 originals, 0 failures",
+    "node scripts/verify-stars-source.mjs": "passed; 197 source assets"
+  },
+  "screenshots": [
+    "../../design-references/model-brand-icons/workspace-light-390.png",
+    "../../design-references/model-brand-icons/workspace-dark-390.png",
+    "../../design-references/model-brand-icons/workspace-light-768.png",
+    "../../design-references/model-brand-icons/workspace-dark-768.png",
+    "../../design-references/model-brand-icons/workspace-light-1440.png",
+    "../../design-references/model-brand-icons/workspace-dark-1440-detail.png"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "sourcePage": "https://cc888.ai/zh-CN",
+  "capturedAt": "2026-10-10T11:23:04.353564+00:00",
+  "modelCount": 50,
+  "iconCount": 13,
+  "sources": [
+    {
+      "url": "https://cc888.ai/assets/MoBan_02-DLnmM-Rc.css",
+      "path": "docs/research/cc888-meteors/upstream.css",
+      "sha256": "d6bc262b1ab5eb3279ae76c8e0a040268e66284679c3b647c313a09b3a9c3bab"
+    },
+    {
+      "url": "https://cc888.ai/assets/MoBan_02-DgB6Q6Hl.js",
+      "path": "docs/research/cc888-meteors/upstream.js",
+      "sha256": "3cdbee0148d2136ec60ec196f87a4af40e044f92496f7191fd4980f568328774"
+    },
+    {
+      "url": "https://cc888.ai/houduan/peizhi/shouye_moxing",
+      "path": "docs/research/cc888-meteors/models-upstream.json",
+      "sha256": "55a7db944ed6992835db4991088ac637853b8c0237631663ae63f61d75abba9b"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://os.cc888.ai/claude.svg",
+      "path": "public/landing-model-icons/claude.svg",
+      "sha256": "a3101f3047a119aa11825ad9369510f0c472428c8c52d420e31bc62db44a8364",
+      "bytes": 1696
+    },
+    {
+      "url": "https://cos.lingkeai.vip/uploads/2026.07/23/20260723022627_afed8e9e83001476.svg",
+      "path": "public/landing-model-icons/suno.svg",
+      "sha256": "e39bc06be66b24c122e96e84f8ad7b9a4f8b586670e51c821f061899995554c1",
+      "bytes": 4265
+    },
+    {
+      "url": "https://os.cc888.ai/gemini.svg",
+      "path": "public/landing-model-icons/gemini.svg",
+      "sha256": "d7161ea5a85c51d996bb7611c665e9b531db5a4092d4978ed4d6ddf6c043257d",
+      "bytes": 2830
+    },
+    {
+      "url": "https://cos.lingkeai.vip/banana.svg",
+      "path": "public/landing-model-icons/banana.svg",
+      "sha256": "558b4b7453edbcb1e485cd12a2636c4a94949b3ca2499f219ced2e41f3dd7588",
+      "bytes": 8954
+    },
+    {
+      "url": "https://os.cc888.ai/openai.svg",
+      "path": "public/landing-model-icons/openai.svg",
+      "sha256": "9ac23fbd7f63f849b5df905cc12b9e8fd7b6db97e018c8216ea0494562e342ba",
+      "bytes": 1682
+    },
+    {
+      "url": "https://cos.lingkeai.vip/mimo_bai.svg",
+      "path": "public/landing-model-icons/mimo_bai.svg",
+      "sha256": "2c1fb46c62074172e731b46016571eb75f7c1be7218ad7da58baf055fe0576c5",
+      "bytes": 2069
+    },
+    {
+      "url": "https://os.cc888.ai/grok.svg",
+      "path": "public/landing-model-icons/grok.svg",
+      "sha256": "50fc23b4b127b28dd8fe8a09be69127e3d0d2ff65b30fd9f04cb7a5df1c58e51",
+      "bytes": 751
+    },
+    {
+      "url": "https://cos.lingkeai.vip/glm.svg",
+      "path": "public/landing-model-icons/glm.svg",
+      "sha256": "5f9887d03fcbdc63cba618b90dbef23843d536dceb19af56a91881cb7c16fe66",
+      "bytes": 1905
+    },
+    {
+      "url": "https://cos.lingkeai.vip/deepseek.svg",
+      "path": "public/landing-model-icons/deepseek.svg",
+      "sha256": "3fa15aa7b5a9aa2f2e6ccd697f240cb5d8f7e28bc7f272c4c60e3c5455900fe6",
+      "bytes": 2170
+    },
+    {
+      "url": "https://cos.lingkeai.vip/minimax.svg",
+      "path": "public/landing-model-icons/minimax.svg",
+      "sha256": "970579776aab00b9650ce01172559df2cfd1616372c4e0f2bf4abf317342c4e5",
+      "bytes": 1574
+    },
+    {
+      "url": "https://cos.lingkeai.vip/qwen.svg",
+      "path": "public/landing-model-icons/qwen.svg",
+      "sha256": "90f8eea72605b49e2049104a254fd46469c4dd8c67b49a7e87eb61773ad2ebc8",
+      "bytes": 1924
+    },
+    {
+      "url": "https://cos.lingkeai.vip/doubao.svg",
+      "path": "public/landing-model-icons/doubao.svg",
+      "sha256": "613ba577dfc23de42e6f7a01ded20abde213a9370320be44061cda6b0bccf91d",
+      "bytes": 1159
+    },
+    {
+      "url": "https://cos.lingkeai.vip/video-enhance.svg",
+      "path": "public/landing-model-icons/video-enhance.svg",
+      "sha256": "0bb6881fc904cf72ab7c72cbfc7738c4299f0f3077c7e0b88f3b145eab1c5648",
+      "bytes": 746
+    }
+  ],
+  "adaptations": [
+    "Vue to React lifecycle",
+    "CSS scope and variable names",
+    "Local model snapshot and icons",
+    "Post-entrance activation",
+    "Compact layout at 1024px and below",
+    "Pause/resume and teardown",
+    "Copy-relative anchors above and beside the bottom-left hero",
+    "Label collision guards and glyph shadow for the current galaxy",
+    "Warm white, champagne and lilac Landing palette"
+  ]
+}

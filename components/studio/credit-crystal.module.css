@@ -1,0 +1,39 @@
+.icon {
+  --crystal-light: #edeaf5;
+  --crystal-mid: #beb4d0;
+  --crystal-shade: #746581;
+  --crystal-shine: #ffffff;
+  --crystal-edge: #81738f;
+  --crystal-gold: #dbc19b;
+  display: inline-flex;
+  width: 24px;
+  height: 24px;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  transition: filter 180ms ease;
+}
+
+.icon[data-appearance='dark'] {
+  --crystal-light: #e9e3f5;
+  --crystal-mid: #aaa0c4;
+  --crystal-shade: #514662;
+  --crystal-shine: #fff9ef;
+  --crystal-edge: #d4cce6;
+  --crystal-gold: #e9cba7;
+}
+
+.icon > svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+button:is(:hover, :focus-visible) .icon {
+  filter: brightness(1.1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .icon { transition: none; }
+}
