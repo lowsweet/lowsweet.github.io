@@ -16,6 +16,10 @@ run(process.execPath, [path.join(root, 'scripts/build-pages.mjs')]);
 const directory = await mkdtemp(path.join(tmpdir(), 'linkeai-pages-'));
 try {
   run('git', ['clone', '--branch', 'gh-pages', '--single-branch', remote, directory]);
+  for (const key of ['user.name', 'user.email']) {
+    const configured = spawnSync('git', ['config', '--get', key], { cwd: root, encoding: 'utf8' });
+    if (configured.status === 0 && configured.stdout.trim()) run('git', ['config', key, configured.stdout.trim()], directory);
+  }
   for (const entry of await readdir(directory)) {
     if (entry !== '.git') await rm(path.join(directory, entry), { recursive: true, force: true });
   }
@@ -24,7 +28,7 @@ try {
   const changes = spawnSync('git', ['diff', '--cached', '--quiet'], { cwd: directory });
   if (changes.status === 1) {
     run('git', ['commit', '-m', 'Deploy LinkeAI static website'], directory);
-    run('git', ['push', 'origin', 'gh-pages'], directory);
+    run('git', ['-c', 'credential.helper=!gh auth git-credential', 'push', 'origin', 'gh-pages'], directory);
   }
   console.log('Published branch updated: https://lowsweet.github.io/');
 } finally {
